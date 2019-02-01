@@ -14,6 +14,7 @@ published: true
 من الدورات الشاملة:
 
 1. [دورة محمد عيسى: دورة Python 3 اساسيات ومتقدم](https://www.youtube.com/playlist?list=PLMYF6NkLrdN98I0nEXOuR_gK8b4w-NJcN)
+
    - المقدمة وتثبيت المحرر PyCharm لكتابة الكود.
    - الأساسيات.
    - التعابير المنطقية.
@@ -25,7 +26,9 @@ published: true
    - تثبيت المكاتب الخارجية والتعامل معها، بالإضافة لبناء مكتبة خاصة بك.
    - التعامل مع قاعدة بيانات sqlite.
    - التعامل مع مكتبة tkinter لبناء واجهة بسيطة.
+
 2. [دورة حسين الربيعي: دورة برمجة بايثون Python Tutorials Arabic](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1j4hxoqXqJk08ASU7D_W87)
+
    - كيفية تثبيت بايثون.
    - الأساسيات.
    - التعابير المنطقية.
@@ -38,5 +41,54 @@ published: true
    - التعامل مع قاعدة بيانات sqlite.
    - التعامل مع json.
    - تعلم بناء واجهة تطبيق مع تنفيذ لعبة Tic Tac Toy.
-   - تنفيذ مشروع نظام حجوزات.
+   - تنفيذ مشروح نظام حجوزات.
    - شرح مكتبة networkx.
+
+3. دورة محمود أحمد
+
+   1. [الجزء الأول:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE)
+
+      - المقدمة وشرح بعض المحررات لكتابة الكود.
+      - تثبيت بايثون مع شرف الفرق بين Interpreter و Compiler.
+      - الأساسيات.
+
+   2. [الجزء الثاني:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA)
+
+      - المقدمة.
+      - البرمجة كائنية التوجه OOP.
+
+   3. [الجزء الثالث:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdro121Y1IAbPOydAhyL13a)
+
+      - المقدمة.
+
+      - التعامل مع أهم المكاتب الأساسية.
+
+        
+
+   4. [الجزء الرابع:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdRIJa8fdHeVhDG46G3cA2e)
+
+      - بناء مشاريع بسيطة.
+
+4. [دورة أكادمية حسونة: Python بايثون الكل](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)
+
+   - معلومات عامة عن البايثون واستخداماتها.
+   - كيفي تثبيت بايثون.
+   - الأساسيات.
+   - التعامل مع الملفات والمجلدات.
+   - شرح جملة with.
+   - التعامل مع التاريخ والوقت.
+   - التعابير المنطقية.
+   - معالجة الأخطاء.
+   - التعامل مع ملف csv.
+   - الدوال.
+   - شرح pass.
+   - البرمجة كائنية التوجه OOP.
+   - شرح مكتبة tkinter بشكل موسع لبناء واجهة.
+
+5. 
+
+6. 
+
+7. 
+
+8. 
