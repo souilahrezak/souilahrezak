@@ -13,7 +13,7 @@ published: true
 
 من الدورات الشاملة:
 
-1. [دورة محمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN98I0nEXOuR_gK8b4w-NJcN)
+1. [دورة محمد عيسى اسمها دورة Python 3 اساسيات ومتقدم](https://www.youtube.com/playlist?list=PLMYF6NkLrdN98I0nEXOuR_gK8b4w-NJcN)
    - المقدمة وتثبيت المحرر PyCharm لكتابة الكود.
    - الأساسيات.
    - التعابير المنطقية.
