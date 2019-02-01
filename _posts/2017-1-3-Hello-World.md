@@ -25,7 +25,7 @@ published: true
    - تثبيت المكاتب الخارجية والتعامل معها، بالإضافة لبناء مكتبة خاصة بك.
    - التعامل مع قاعدة بيانات sqlite.
    - التعامل مع مكتبة tkinter لبناء واجهة بسيطة.
-2. [دورة حسين الربيعي: دورة برمجة بايثون || Python Tutorials Arabic](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1j4hxoqXqJk08ASU7D_W87)
+2. [دورة حسين الربيعي: دورة برمجة بايثون Python Tutorials Arabic](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1j4hxoqXqJk08ASU7D_W87)
    - كيفية تثبيت بايثون.
    - الأساسيات.
    - التعابير المنطقية.
@@ -38,5 +38,5 @@ published: true
    - التعامل مع قاعدة بيانات sqlite.
    - التعامل مع json.
    - تعلم بناء واجهة تطبيق مع تنفيذ لعبة Tic Tac Toy.
-   - تنفيذ مشروح نظام حجوزات.
+   - تنفيذ مشروع نظام حجوزات.
    - شرح مكتبة networkx.
