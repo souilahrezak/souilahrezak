@@ -1,8 +1,8 @@
 ---
 layout: post
 title: مصادر لتعلم لغة البرمجة بايثون
+published: true
 ---
-
 مصادر عربية لتعلم لغة البرمجة بايثون في جميع مجالات اللغة.
 
 أولًا: هنالك دورات شاملة تقريبًا تحتوي على الأساسيات والبرمجة كائنية التوجه والتعامل مع قواعد البيانات والملفات إلخ ...
@@ -135,6 +135,8 @@ title: مصادر لتعلم لغة البرمجة بايثون
 
 ##### دورات حسب الموضوع:
 
+
+
 1. Python Security And Network.
    - [عبد الله السكري](https://www.youtube.com/watch?v=2DqgWxvpwIY&list=PLCIJjtzQPZJ-k4ADq_kyuyWVSRPC5JxeG)
    - [محمد عيسى شبكات](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9wzmjRlcO1UsqgO6KUTODC)
@@ -163,4 +165,15 @@ title: مصادر لتعلم لغة البرمجة بايثون
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4)
 10. Convert Py to EXE:
     - [محمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e)
+11. Web Framework:
+    1. Flask:
+       - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
+    2. Django:
+       - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/django/)
+
+
+
+##### بعض الكتب لتعلم لغة البايثون:
+
+1. [تلعم بايثون 3.](https://itwadi.com/node/2621)
 
