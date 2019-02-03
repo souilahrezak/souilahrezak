@@ -41,7 +41,7 @@ footer-links:
 disqus: abotyim
 
 # إذا أردت تفعيل إحصاءات الزوار في Google Analytics أدخل المعرف الخاص بك (مثلاً UA-2110908-2)
-google_analytics:
+google_analytics: UA-133736790-1
 
 # عنوان موقعك مثلاً http://barryclark.github.io
 # يستخدم هذا المتغير في الـRSS والـSitemap.xml
