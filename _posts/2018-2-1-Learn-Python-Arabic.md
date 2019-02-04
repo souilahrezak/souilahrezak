@@ -51,7 +51,7 @@ published: true
    1. [الجزء الأول:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE)
 
       - المقدمة وشرح بعض المحررات لكتابة الكود.
-      - تثبيت بايثون مع شرح الفرق بين Interpreter و Compiler.
+      - تثبيت بايثون مع شرف الفرق بين Interpreter و Compiler.
       - الأساسيات.
 
    2. [الجزء الثاني:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA)
@@ -173,7 +173,29 @@ published: true
 
 
 
-##### بعض الكتب لتعلم لغة البايثون:
+##### كتب:
 
-1. [تعلم بايثون 3.](https://itwadi.com/node/2621)
+- [تلعم بايثون 3.](https://itwadi.com/node/2621)
 
+
+
+##### مواقع:
+
+- [موقع هرماش.](https://harmash.com/python/python-overview/)
+- [موقع Code4Learn.](https://code4learn.teachable.com/)
+
+
+
+##### مجتمعات بايثون العربية:
+
+1. Telegram:
+
+   - [مجتمع بايثون.](https://t.me/arabipython)
+   - [مجتمع جانغو.](https://t.me/DjangoPython)
+   - [مجتمع فلاسك.](https://t.me/FlaskPython)
+
+2. Website:
+
+   - [مجتمتع بايثون في حسوب.](https://io.hsoub.com/python)
+
+   
