@@ -170,6 +170,7 @@ published: true
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
     2. Django:
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/django/)
+       - [دورة إطار عمل جانغو من عالم البرمجة.](https://3alam.pro/albader/series/django)
 
 
 
