@@ -131,6 +131,10 @@ published: true
 
    - الأساسيات.
 
+9. [تعلم لغة بايثون عبر حل المشكلات لزياد العتيبي.](https://3alam.pro/zyad-alaatyby/series/days-of-code)
+
+   - حل المشاكل من موقع hacker rank.
+
 
 
 ##### دورات حسب الموضوع:
@@ -168,7 +172,11 @@ published: true
 11. Web Framework:
     1. Flask:
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
+
     2. Django:
+
+       - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
+
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/django/)
        - [دورة إطار عمل جانغو من عالم البرمجة.](https://3alam.pro/albader/series/django)
 
@@ -177,10 +185,14 @@ published: true
 ##### كتب:
 
 - [تلعم بايثون 3.](https://itwadi.com/node/2621)
+- [فكر بايثون.](https://www.kutub.info/library/book/19881)
+- [خطوة على طريق بايثون.](https://itwadi.com/byteofpython_arabi)
 
 
 
 ##### مواقع:
+
+- [ترجمة توثيق بايثون الرسمي من حسوب.](https://wiki.hsoub.com/Python)
 
 - [موقع هرماش.](https://harmash.com/python/python-overview/)
 - [موقع Code4Learn.](https://code4learn.teachable.com/)
