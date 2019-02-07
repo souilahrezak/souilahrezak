@@ -187,13 +187,14 @@ published: true
 - [تلعم بايثون 3.](https://itwadi.com/node/2621)
 - [فكر بايثون.](https://www.kutub.info/library/book/19881)
 - [خطوة على طريق بايثون.](https://itwadi.com/byteofpython_arabi)
+- [مقدمة في البرمجة عن طريق بايثون.](https://linuxac.org/filedata/fetch?id=852858)
+- [نزهة مع بايثون.](https://drive.google.com/file/d/1IOQjGyNB52ylhKCqT6qttI4koskpTKan/view?usp=drivesdk)
 
 
 
 ##### مواقع:
 
 - [ترجمة توثيق بايثون الرسمي من حسوب.](https://wiki.hsoub.com/Python)
-
 - [موقع هرماش.](https://harmash.com/python/python-overview/)
 - [موقع Code4Learn.](https://code4learn.teachable.com/)
 
