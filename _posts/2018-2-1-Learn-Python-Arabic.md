@@ -176,7 +176,18 @@ published: true
     2. Django:
 
        - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
-
+       - [دورة جانغو الإصدار الثاني لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4)
+       - [دورة جانغو لحسين الربيعي.](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3VqZkeKeyVdJ_J1Ek0ECbs)
+       - [دورة جانغو ببايثون 2 لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJ7r0APq7O87gucjYWRfD)
+       - [دورة جانغو 1.11 لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-3ecpi7jD4pwxsyPVHWb4C)
+       - [دورة جانغو 2 REST API.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_8KPztmgiAZpsNfXJcI-v5)
+       - [كيفية التعامل مع المستخدمين في جانغو.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5gwryXy9uxpPhm236hL42)
+       - [اساسيات برمجة المواقع بجانغو.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ)
+       - [كيفيه رفع مشروع جانجو على DigitalOcean.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqeVCY78dcKJFXItin0BEujT)
+       - [كلام في جانغو يحتوي على بعض النصائح وحلول للمشاكل.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1)
+       - [المرجع الشامل لتعلم جانغو لمحمود أحمد سعر الدورة 10 دولار.](https://code4learn.teachable.com/p/python-django-full-guide-arabic?fbclid=IwAR1h9rArUuyF08yXdxe_GArrfUlSGybrElN14gplTLaYiqZ1Bs7nb1Yl3qc)
+       - [دورة برمجة المواقع مع جانغو من برمج دوت كوم.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%85%D8%B9-%D8%AC%D8%A7%D9%86%D8%BA%D9%88-Django)
+       - [دورة جانغو لبناء مدونة لمحمود أحمد.](https://www.youtube.com/playlist?list=PLTjpmsGYzQq7V94Vv4MewNdJG8e3Ax4mC)
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/django/)
        - [دورة إطار عمل جانغو من عالم البرمجة.](https://3alam.pro/albader/series/django)
 
