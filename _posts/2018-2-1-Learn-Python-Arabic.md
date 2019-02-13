@@ -159,6 +159,7 @@ published: true
 5. Machine Learning:
    - [حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R)
    - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHC3uV0T6TTndqNDDR69tN_1)
+   - [حازم خالد محمد](https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS)
 6. Pandas:
    - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
 7. Web Crawling:
@@ -172,11 +173,13 @@ published: true
 11. Web Framework:
     1. Flask:
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
+       - [كتاب استكشف فلاسك.](https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83)
 
     2. Django:
 
        - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
        - [دورة جانغو الإصدار الثاني لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4)
+       - [مشروع بناء مدونة لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCyoKpr6II_2aXUUOmtCDW4f)
        - [دورة جانغو لحسين الربيعي.](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3VqZkeKeyVdJ_J1Ek0ECbs)
        - [دورة جانغو ببايثون 2 لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJ7r0APq7O87gucjYWRfD)
        - [دورة جانغو 1.11 لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-3ecpi7jD4pwxsyPVHWb4C)
