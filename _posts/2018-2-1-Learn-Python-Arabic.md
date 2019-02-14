@@ -162,18 +162,21 @@ published: true
    - [حازم خالد محمد](https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS)
 6. Pandas:
    - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
-7. Web Crawling:
+7. Image Processing:
+   - [دورة بايثون لمعالجة الصور لحازم خالد.](https://www.youtube.com/playlist?list=PLImVLP5cXFNS-TAKeRHpp0_SzGuwBUFnT)
+8. Web Crawling:
    - [شرح مكتبة PyQuery لأبو بكر سليمان](https://www.youtube.com/watch?v=GX4DR8_eeM4&list=PLvLvlVqNQGHBxA9uRN_x9r6BrcBqi526F)
-8. Threading Module:
+9. Threading Module:
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5iNjmaBW17vE_widIeflBd)
-9. OS Module:
+10. OS Module:
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4)
-10. Convert Py to EXE:
+11. Convert Py to EXE:
     - [محمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e)
-11. Web Framework:
+12. Web Framework:
     1. Flask:
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
        - [كتاب استكشف فلاسك.](https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83)
+       - [دورة ترجمة كتاب flask mega.](https://www.youtube.com/playlist?list=PLHqnUR3OCFAnVs_oFATDk0byWdc4X15PX)
 
     2. Django:
 
