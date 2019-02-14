@@ -205,7 +205,7 @@ published: true
 
 ##### كتب:
 
-- [تلعم بايثون 3.](https://itwadi.com/node/2621)
+- [تعلم بايثون 3.](https://itwadi.com/node/2621)
 - [فكر بايثون.](https://www.kutub.info/library/book/19881)
 - [خطوة على طريق بايثون.](https://itwadi.com/byteofpython_arabi)
 - [مقدمة في البرمجة عن طريق بايثون.](https://linuxac.org/filedata/fetch?id=852858)
