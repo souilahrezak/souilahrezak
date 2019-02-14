@@ -231,6 +231,6 @@ published: true
 
 2. Website:
 
-   - [مجتمتع بايثون في حسوب.](https://io.hsoub.com/python)
+   - [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
 
    
