@@ -91,7 +91,7 @@ published: true
 
    - الأسياسيات بشكل سريع.
    - الاحصاء والرياضيات.
-   - شرح محكتبة Numpy.
+   - شرح مكتبة Numpy.
    - شرح مكتبة MatPlotLib.
    - شرح مكتبة Panda.
    -  الرياضيات بالرموز والتفاضل والتكامل وشرح مكتبة SymPy.
@@ -238,5 +238,3 @@ published: true
 2. Website:
 
    - [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
-
-   
