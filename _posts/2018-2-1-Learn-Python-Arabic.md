@@ -135,6 +135,10 @@ published: true
 
    - حل المشاكل من موقع hacker rank.
 
+10. [مقدمة إلى برمجة الحاسب باستخدام لغة بايثون من رواق.](https://www.rwaq.org/courses/introduction-to-programming)
+
+    - الأساسيات.
+
 
 
 ##### دورات حسب الموضوع:
@@ -145,6 +149,7 @@ published: true
    - [عبد الله السكري](https://www.youtube.com/watch?v=2DqgWxvpwIY&list=PLCIJjtzQPZJ-k4ADq_kyuyWVSRPC5JxeG)
    - [محمد عيسى شبكات](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9wzmjRlcO1UsqgO6KUTODC)
    - [محمد عيسى قرصنة](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8DPzAOW-ceFdrp-KTUSHFR)
+   - [دورة أساسيات بايثون واستخدامها في اختبار الإختراق.](https://www.youtube.com/playlist?list=PLqi7yZF-SFcYEU_6u2MJw-pwl7d8wthpK)
 2. Python OOP:
    - [اكادمية حسونة](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmHvfmFZZ0XuzZYuoosG9kl)
    - [محمود أحمد](https://www.udemy.com/python-object-oriented-programming-arabic/)
@@ -160,8 +165,9 @@ published: true
    - [حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R)
    - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHC3uV0T6TTndqNDDR69tN_1)
    - [حازم خالد محمد](https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS)
-6. Pandas:
-   - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
+6. Data Analysis:
+   - [شرح مكتبة Panda.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
+   - [مدخل إلى علم البيانات المستوى الأول من رواق.](https://www.rwaq.org/courses/sea_python_level1)
 7. Image Processing:
    - [دورة بايثون لمعالجة الصور لحازم خالد.](https://www.youtube.com/playlist?list=PLImVLP5cXFNS-TAKeRHpp0_SzGuwBUFnT)
 8. Web Crawling:
