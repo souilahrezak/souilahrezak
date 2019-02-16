@@ -93,7 +93,7 @@ published: true
    - الاحصاء والرياضيات.
    - شرح مكتبة Numpy.
    - شرح مكتبة MatPlotLib.
-   - شرح مكتبة Panda.
+   - شرح مكتبة Pandas.
    -  الرياضيات بالرموز والتفاضل والتكامل وشرح مكتبة SymPy.
    - البرمجة كائنية التوجه OOP.
    - رسومات الاحصاء وشرح مكتبة Seaborn.
@@ -166,7 +166,7 @@ published: true
    - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHC3uV0T6TTndqNDDR69tN_1)
    - [حازم خالد محمد](https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS)
 6. Data Analysis:
-   - [شرح مكتبة Panda.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
+   - [شرح مكتبة Pandas.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
    - [مدخل إلى علم البيانات المستوى الأول من رواق.](https://www.rwaq.org/courses/sea_python_level1)
 7. Image Processing:
    - [دورة بايثون لمعالجة الصور لحازم خالد.](https://www.youtube.com/playlist?list=PLImVLP5cXFNS-TAKeRHpp0_SzGuwBUFnT)
