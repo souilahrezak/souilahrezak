@@ -165,6 +165,8 @@ published: true
    - [حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R)
    - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHC3uV0T6TTndqNDDR69tN_1)
    - [حازم خالد محمد](https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS)
+   - [Neural Network بالعربي](https://www.youtube.com/playlist?list=PLAI6JViu7XmfZsTX6pJPMgMHwLXAEPlKe)
+   - [Deep learning](https://www.youtube.com/playlist?list=PLAI6JViu7XmflH_eGgsWkwvv6lbXhYjjY)
 6. Data Analysis:
    - [شرح مكتبة Pandas.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
    - [مدخل إلى علم البيانات المستوى الأول من رواق.](https://www.rwaq.org/courses/sea_python_level1)
