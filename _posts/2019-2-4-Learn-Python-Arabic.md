@@ -90,54 +90,93 @@ published: true
 5. [دورة قناة بايثون حسام الحوراني:](https://www.youtube.com/watch?v=AA7lc2Y6bzI&list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB)
 
    - الأسياسيات بشكل سريع.
-   - الاحصاء والرياضيات.
-   - شرح مكتبة Numpy.
-   - شرح مكتبة MatPlotLib.
-   - شرح مكتبة Pandas.
-   -  الرياضيات بالرموز والتفاضل والتكامل وشرح مكتبة SymPy.
-   - البرمجة كائنية التوجه OOP.
-   - رسومات الاحصاء وشرح مكتبة Seaborn.
-   - شرح مكتبة Scipy.
-   - شرح المكتبات التي تتعامل مع Excel.
-   - قواعد البيانات وشرح مكتبة SQLAlchemy و SQLite.
-   - شرح مكتبة Bokeh للرسومات التفاعلية.
-   - التعلم العميق مع Keras.
-   - معالجة الصور Pillow.
-   - معالجة اللغات الطبيعية NLP NLTK.
-   - الوسائط المتعددة والرسومات والألعاب pyglet.
-   - تخزين وتحميل مخرجات نماذج تعلم الالة والتعلم العميق
-   - الارشادات والحيل في بايثون.
-   - شرح مكتبة Arcade لبرمجة الألعاب.
-   - التعامل مع  قواعد البيانات MySQL والتعامل مع مكتبة Pymysql.
-   - التعامل مع ملفات json.
-   - شرح مكتبة Theano.
-   - شرح مكتبة Tensorflow.
-   - التعامل مع ملفات csv و xml و txt.
-   - شرح حول Image Processing, Video Processing باستخدام مكتبة OpenCV.
-   - التعابير المنطقية.
-   - شرح مكتبة VPython.
-   - فحص واختبار برمجيات بايثون.
-   - 
 
-6. [دورة أحمد أبو عيسى: أساسيات Python](https://www.youtube.com/watch?v=JiRbacPf5pU&list=PLTcPeoMjkuCwV-ZUabT5HVhLliTT9of2I)
+   - الاحصاء والرياضيات.
+
+   - شرح مكتبة Numpy.
+
+   - شرح مكتبة MatPlotLib.
+
+   - شرح مكتبة Pandas.
+
+   - الرياضيات بالرموز والتفاضل والتكامل وشرح مكتبة SymPy.
+
+   - البرمجة كائنية التوجه OOP.
+
+   - رسومات الاحصاء وشرح مكتبة Seaborn.
+
+   - شرح مكتبة Scipy.
+
+   - شرح المكتبات التي تتعامل مع Excel.
+
+   - قواعد البيانات وشرح مكتبة SQLAlchemy و SQLite.
+
+   - شرح مكتبة Bokeh للرسومات التفاعلية.
+
+   - التعلم العميق مع Keras.
+
+   - معالجة الصور Pillow.
+
+   - معالجة اللغات الطبيعية NLP NLTK.
+
+   - الوسائط المتعددة والرسومات والألعاب pyglet.
+
+   - تخزين وتحميل مخرجات نماذج تعلم الالة والتعلم العميق
+
+   - الارشادات والحيل في بايثون.
+
+   - شرح مكتبة Arcade لبرمجة الألعاب.
+
+   - التعامل مع  قواعد البيانات MySQL والتعامل مع مكتبة Pymysql.
+
+   - التعامل مع ملفات json.
+
+   - شرح مكتبة Theano.
+
+   - شرح مكتبة Tensorflow.
+
+   - التعامل مع ملفات csv و xml و txt.
+
+   - شرح حول Image Processing, Video Processing باستخدام مكتبة OpenCV.
+
+   - التعابير المنطقية.
+
+   - شرح مكتبة VPython.
+
+   - فحص واختبار برمجيات بايثون.
+
+     
+
+6. [البرمجة المكثفة باستخدام بايثون لعبد المجيب غير مجانية:](https://www.flexcourses.com/courses/python-intensive)
+
+    - الأساسيات.
+    - الدوال.
+    - الدوال المجهولة.
+    - البرمجة كائنية التوجه OOP.
+    - الحزم والوحدات.
+    - Decorators.
+    - Generators.
+    - شرح بعض Modules الأساسية.
+
+7. [دورة أحمد أبو عيسى: أساسيات Python](https://www.youtube.com/watch?v=JiRbacPf5pU&list=PLTcPeoMjkuCwV-ZUabT5HVhLliTT9of2I)
 
    - دورة تشرح الأساسيات بشكل متين.
 
-7. [دورة فتحي العامري: دورة أساسيات Python](https://www.youtube.com/watch?v=b1UEYdv-wuM&list=PLs97GbUOC82kmwTurwN1v7HgB9piMJrHS)
+8. [دورة فتحي العامري: دورة أساسيات Python](https://www.youtube.com/watch?v=b1UEYdv-wuM&list=PLs97GbUOC82kmwTurwN1v7HgB9piMJrHS)
 
    - الأساسيات.
 
-8. [دورة نور حمصي: البايثون يتكلم عربي](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbiesxZbUuG-kxi7_dKBYkcY)
+9. [دورة نور حمصي: البايثون يتكلم عربي](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbiesxZbUuG-kxi7_dKBYkcY)
 
    - الأساسيات.
-
-9. [تعلم لغة بايثون عبر حل المشكلات لزياد العتيبي.](https://3alam.pro/zyad-alaatyby/series/days-of-code)
-
-   - حل المشاكل من موقع hacker rank.
 
 10. [مقدمة إلى برمجة الحاسب باستخدام لغة بايثون من رواق.](https://www.rwaq.org/courses/introduction-to-programming)
 
     - الأساسيات.
+
+11. [دورة الصافي الحجازي:](https://www.youtube.com/playlist?list=PLdZYzC8fohEIpOvuXVDE0U00FDVGaUEOn)
+
+     - الأساسيات.
 
 
 
@@ -155,11 +194,20 @@ published: true
    - [محمود أحمد](https://www.udemy.com/python-object-oriented-programming-arabic/)
 3. Python GUI:
    - [شرح مكتبة Tkinter لمحمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
+
    - [شرح مكتبة PyQT لمحمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
+
    - [شرح مكتبة Tkinter لأكادمية حسونة](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K)
+
    - [برمجة مشروع لتحميل من اليوتيوب بواجهة PyQT5 لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0)
+
    - [برمجة نظام لإدارة مكتبة بفروعها بواجهة PyQT5](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdxuWWox8bJAiT1AuRjDM7Z)
+
+   - [شرح مكتبة Tkinter للصافي حجازي.](https://www.youtube.com/playlist?list=PLdZYzC8fohEJBXcDCBoDGyo8paxECbATK)
+
+     
 4. Database:
+
    - [محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK)
 5. Machine Learning:
    - [حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R)
@@ -171,10 +219,13 @@ published: true
    - [شرح مكتبة Pandas.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
    - [مدخل إلى علم البيانات المستوى الأول من رواق.](https://www.rwaq.org/courses/sea_python_level1)
 7. Image Processing:
+
    - [دورة بايثون لمعالجة الصور لحازم خالد.](https://www.youtube.com/playlist?list=PLImVLP5cXFNS-TAKeRHpp0_SzGuwBUFnT)
 8. Web Crawling:
+
    - [شرح مكتبة PyQuery لأبو بكر سليمان](https://www.youtube.com/watch?v=GX4DR8_eeM4&list=PLvLvlVqNQGHBxA9uRN_x9r6BrcBqi526F)
 9. Threading Module:
+
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5iNjmaBW17vE_widIeflBd)
 10. OS Module:
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4)
@@ -240,3 +291,5 @@ published: true
 2. Website:
 
    - [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
+   - [مجتمع جانغو في حسوب.](https://io.hsoub.com/django)
+   - [مجتمع فلاسك في حسوب.](https://io.hsoub.com/Flask)
