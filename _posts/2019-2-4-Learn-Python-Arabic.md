@@ -205,7 +205,6 @@ published: true
 
    - [شرح مكتبة Tkinter للصافي حجازي.](https://www.youtube.com/playlist?list=PLdZYzC8fohEJBXcDCBoDGyo8paxECbATK)
 
-     
 4. Database:
 
    - [محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK)
@@ -230,9 +229,13 @@ published: true
 10. OS Module:
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4)
 11. Convert Py to EXE:
+
     - [محمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e)
 12. Web Framework:
     1. Flask:
+
+       - [دورة تعلم Flask.](https://www.youtube.com/playlist?list=PLfDx4cQoUNObFOYvkcNQG8arJX95TRE47)
+
        - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
        - [كتاب استكشف فلاسك.](https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83)
        - [دورة ترجمة كتاب flask mega.](https://www.youtube.com/playlist?list=PLHqnUR3OCFAnVs_oFATDk0byWdc4X15PX)
