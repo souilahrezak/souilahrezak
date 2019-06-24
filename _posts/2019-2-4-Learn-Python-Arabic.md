@@ -231,17 +231,11 @@ published: true
    - [شرح مكتبة PyQuery لأبو بكر سليمان](https://www.youtube.com/watch?v=GX4DR8_eeM4&list=PLvLvlVqNQGHBxA9uRN_x9r6BrcBqi526F)
 
 9. Threading Module:
-
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5iNjmaBW17vE_widIeflBd)
-
 10. OS Module:
-
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4)
-
 11. Convert Py to EXE:
-
     - [محمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e)
-
 12. Web Framework:
     1. Flask:
     
