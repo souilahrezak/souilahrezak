@@ -248,8 +248,9 @@ published: true
     
        - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
        - [دورة جانغو الإصدار الثاني لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4)
-       - [مشروع بناء مدونة لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCyoKpr6II_2aXUUOmtCDW4f)
+       - [برمجة متجر الكتروني ببايثون ودجانجو 2.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg)
        - [ابدا اتعلم جانغو لمحمود أحمد.](https://code4learn.teachable.com/p/learn-django-in-arabic)
+       - [كيفيه التعامل مع المستخدمين دجانجو 2.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfm1KN_9qc7vpn5e9XwP9U3)
        - [المرجع الشامل لتعلم جانغو لمحمود أحمد سعر الدورة 10 دولار.](https://code4learn.teachable.com/p/python-django-full-guide-arabic)
        - [مكتبات خاصة بجانغو لمحمود أحمد.](https://code4learn.teachable.com/p/d4a3d7)
        - [ابني متجرك الالكتروني لمحمود أحمد.](https://code4learn.teachable.com/p/build-full-ecommerce-website-with-python-django-arabic)
@@ -293,7 +294,6 @@ published: true
 
    - [مجتمع بايثون.](https://t.me/arabipython)
    - [مجتمع جانغو.](https://t.me/DjangoPython)
-   - [مجتمع فلاسك.](https://t.me/FlaskPython)
 
 2. Website:
 
