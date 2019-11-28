@@ -247,6 +247,7 @@ published: true
     2. Django:
     
        - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
+       - [Django Tutorials Level 2 (REST API) لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRCqH9qJSM67ZPBC7MD1Pa3)
        - [دورة جانغو الإصدار الثاني لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4)
        - [ابدا اتعلم جانغو لمحمود أحمد.](https://code4learn.teachable.com/p/learn-django-in-arabic)
        - [اتعلم دجانجو ٢ لمحمود أحمد.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfFmxnLII7nAV0-EdtTCulM)
