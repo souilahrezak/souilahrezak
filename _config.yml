@@ -6,7 +6,7 @@
 name: أبو تيم
 
 # وصف قصير للمدونة والذي سيظهر تحت اسمها وكجزء من عنوان المدونة في محركات البحث
-description: ☕️ Android Forensics, Python, Linux
+description: اِبنُ أُمَّةٍ لا تَمُوت
 
 # رابط صورة المدونة
 # لإستخدام صورة هويتك في GitHub ضع https://github.com/<اسم_المستخدم>.png في المتغير، مثلا لهويتي الشخصية أستخدم:
@@ -29,8 +29,8 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: AboTyim
+  rss: https://abotyim.github.io/feed # ضع أي قيمة هنا لتظهر أيقونة RSS
+  twitter: TyimAllah
   stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
   youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
   googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
