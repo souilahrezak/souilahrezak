@@ -403,16 +403,13 @@ published: true
 
 
 ##### مجتمعات بايثون العربية:
-
-1. Telegram:
 	- [مجتمع بايثون.](https://t.me/arabipython)
 	- [مجتمع جانغو.](https://t.me/DjangoPython)
-  
-2. Website:
+	-
+	- [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
+	- [مجتمع جانغو في حسوب.](https://io.hsoub.com/django)
+	- [مجتمع فلاسك في حسوب.](https://io.hsoub.com/Flask)
 
-   - [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
-   - [مجتمع جانغو في حسوب.](https://io.hsoub.com/django)
-   - [مجتمع فلاسك في حسوب.](https://io.hsoub.com/Flask)
 
    
 
