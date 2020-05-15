@@ -406,7 +406,7 @@ published: true
 
 1. Telegram:
 
-   - [مجتمع بايثون.](https://t.me/arabipython)
+- [مجتمع بايثون.](https://t.me/arabipython)
 - [مجتمع جانغو.](https://t.me/DjangoPython)
   
 2. Website:
