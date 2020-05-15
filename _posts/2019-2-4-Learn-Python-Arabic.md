@@ -351,7 +351,7 @@ published: true
        - [كتاب استكشف فلاسك.](https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83)
        - [دورة ترجمة كتاب flask mega.](https://www.youtube.com/playlist?list=PLHqnUR3OCFAnVs_oFATDk0byWdc4X15PX)
              
-    2. Django:
+   2. Django:
        - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
        - [Django Tutorials Level 2 (REST API) لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRCqH9qJSM67ZPBC7MD1Pa3)
        - [دورة جانغو الإصدار الثاني لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4)
