@@ -393,26 +393,24 @@ published: true
 
 ##### مواقع:
 
-- [ترجمة توثيق بايثون الرسمي من حسوب.](https://wiki.hsoub.com/Python)
-- [موقع هرماش.](https://harmash.com/python/python-overview/)
-- [مدونة Code4Learn لمحمود أحمد.](https://code4learn.teachable.com/blog)
-- [دورات موقع Code4Learn.](https://code4learn.teachable.com/courses)
-- [مسار كامل من موقع barmej.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django)
+	- [ترجمة توثيق بايثون الرسمي من حسوب.](https://wiki.hsoub.com/Python)
+	- [موقع هرماش.](https://harmash.com/python/python-overview/)
+	- [مدونة Code4Learn لمحمود أحمد.](https://code4learn.teachable.com/blog)
+	- [دورات موقع Code4Learn.](https://code4learn.teachable.com/courses)
+	- [مسار كامل من موقع barmej.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django)
 
 
 
 ##### مجتمعات بايثون العربية:
 
 1. Telegram:
-
-   - [مجتمع بايثون.](https://t.me/arabipython)
-- [مجتمع جانغو.](https://t.me/DjangoPython)
+	- [مجتمع بايثون.](https://t.me/arabipython)
+	- [مجتمع جانغو.](https://t.me/DjangoPython)
   
 2. Website:
-
-   - [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
-   - [مجتمع جانغو في حسوب.](https://io.hsoub.com/django)
-   - [مجتمع فلاسك في حسوب.](https://io.hsoub.com/Flask)
+	- [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
+	- [مجتمع جانغو في حسوب.](https://io.hsoub.com/django)
+   	- [مجتمع فلاسك في حسوب.](https://io.hsoub.com/Flask)
 
    
 
