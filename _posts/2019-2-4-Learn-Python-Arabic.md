@@ -275,7 +275,13 @@ published: true
 
    - [شرح مكتبة Tkinter لمحمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
 
+   - [شرح مكتبة Tkinter لمحمد رؤوف](https://www.youtube.com/playlist?list=PLUgHGaXGKJGmERb_7Uamn1eI9b3Gunh0g)
+
+   - [شرح مكتبة kivy لمحمود رؤوف](https://www.youtube.com/playlist?list=PLUgHGaXGKJGkerqrnl_u9woXKdtUH_hfs)
+
    - [شرح مكتبة PyQT لمحمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
+
+   - [تصميم تطبيقات الديسك توب ب Qt Designer لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf0sQkpTQhufQ0nW8rqqG4q)
 
    - [شرح مكتبة Tkinter لأكادمية حسونة](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K)
 
@@ -292,6 +298,8 @@ published: true
 4. Database:
 
    - [محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK)
+
+   - [التعامل مع الداتا بيز ببايثون | python mysql لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
 
      
 
@@ -327,22 +335,31 @@ published: true
 
    - [شرح مكتبة PyQuery لأبو بكر سليمان](https://www.youtube.com/watch?v=GX4DR8_eeM4&list=PLvLvlVqNQGHBxA9uRN_x9r6BrcBqi526F)
 
+   - [شرح مكتبة Selenium لأبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHD1XUJSYfYezvs9gLdaWHId)
+
+   - [selenium in python {Necktie}](https://www.youtube.com/playlist?list=PLwerRebku82Fcw4EBYs1EOlUlP3msNdxg)
+
      
 
 9. Threading Module:
    
    - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5iNjmaBW17vE_widIeflBd)
    
+   
+   
 10. OS Module:
 
     - [محمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4)
+    - [OS in python {Necktie}](https://www.youtube.com/playlist?list=PLwerRebku82FX7gAhf18zPRhC2B4XZS7i)
+    - [autopy in python {Necktie}](https://www.youtube.com/playlist?list=PLwerRebku82FnWhSRqLjXml8ZKmnPZvt9)
 
 
 
 11. Convert Py to EXE:
 
     - [محمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e)
-    - 
+    
+      
     
 12. Flask:
 	- [دورة تعلم Flask.](https://www.youtube.com/playlist?list=PLfDx4cQoUNObFOYvkcNQG8arJX95TRE47)
@@ -359,10 +376,13 @@ published: true
    - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
    - [Django Tutorials Level 2 (REST API) لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRCqH9qJSM67ZPBC7MD1Pa3)
    - [دورة جانغو الإصدار الثاني لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4)
+   - [دورة إنشاء موقع Vezeta بإستخدام Django لمحمود رؤوف](https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn)
+   - [الدليل الشامل لتعلم دجانجو 3 لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfv9yQelR4HETqU35alUoW6)
+   - [المرجع الشامل لتعلم دجانجو](https://code4learn.teachable.com/p/python-django-full-guide-arabic)
    - [ابدا اتعلم جانغو لمحمود أحمد.](https://code4learn.teachable.com/p/learn-django-in-arabic)
-   - [اتعلم دجانجو ٢ لمحمود أحمد.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfFmxnLII7nAV0-EdtTCulM)
    - [كيفيه التعامل مع المستخدمين دجانجو 2.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfm1KN_9qc7vpn5e9XwP9U3)
    - [برمجة متجر الكتروني ببايثون ودجانجو 2.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg)
+   - [التعامل مع ال Class Based Views في دجانجو](https://www.youtube.com/playlist?list=PLtGOJcWqvbqc3cbs0cpSrr1jiGgSbjlik)
    - [مكتبات خاصة بجانغو لمحمود أحمد.](https://code4learn.teachable.com/p/d4a3d7)
    - [مدونة تحتوي على مقالات خاصة بجانغو.](https://code4learn.teachable.com/blog)
    - [دورة جانغو لحسين الربيعي.](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3VqZkeKeyVdJ_J1Ek0ECbs)
@@ -373,7 +393,7 @@ published: true
    - [اساسيات برمجة المواقع بجانغو.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ)
    - [كيفيه رفع مشروع جانجو على DigitalOcean.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqeVCY78dcKJFXItin0BEujT)
    - [كلام في جانغو يحتوي على بعض النصائح وحلول للمشاكل.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1)
-   - [دورة برمجة المواقع مع جانغو من برمج دوت كوم.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%85%D8%B9-%D8%AC%D8%A7%D9%86%D8%BA%D9%88-Django)
+   - [دورة برمجة المواقع مع جانغو من برمج دوت كوم.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django)
    - [دورة جانغو لبناء مدونة لمحمود أحمد.](https://www.youtube.com/playlist?list=PLTjpmsGYzQq7V94Vv4MewNdJG8e3Ax4mC)
    - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/django/)
    - [دورة إطار عمل جانغو من عالم البرمجة.](https://3alam.pro/albader/series/django)
