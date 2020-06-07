@@ -299,7 +299,7 @@ published: true
 
    - [محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK)
 
-   - [التعامل مع الداتا بيز ببايثون | python mysql لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
+   - [التعامل مع الداتا بيز ببايثون لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
 
      
 
