@@ -297,9 +297,11 @@ published: true
 
 4. Database:
 
+   - [database (ORM) لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeY8rD2K0805eVrdR4qlxkpt)
+
    - [محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK)
 
-   - [التعامل مع الداتا بيز ببايثون لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
+   - [التعامل مع الداتا بيز ببايثون | python mysql لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
 
      
 
@@ -339,6 +341,8 @@ published: true
 
    - [selenium in python {Necktie}](https://www.youtube.com/playlist?list=PLwerRebku82Fcw4EBYs1EOlUlP3msNdxg)
 
+   - [Web Scraping With Beautiful Soup لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeZwTnMl7MFPUyo_qsh0z_ND)
+
      
 
 9. Threading Module:
@@ -364,8 +368,10 @@ published: true
 12. Flask:
 	- [دورة تعلم Flask.](https://www.youtube.com/playlist?list=PLfDx4cQoUNObFOYvkcNQG8arJX95TRE47)
 	
-	- [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
+	- [Flask Web Development لمهدي أحمد.](https://www.youtube.com/playlist?list=PLl7A6RG4XKeZo9gNbZ4vNygMHm7a7-E7G)
 	
+    - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
+    
     - [كتاب استكشف فلاسك.](https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83)
     
     - [دورة ترجمة كتاب flask mega.](https://www.youtube.com/playlist?list=PLHqnUR3OCFAnVs_oFATDk0byWdc4X15PX)
@@ -395,6 +401,12 @@ published: true
    - [كلام في جانغو يحتوي على بعض النصائح وحلول للمشاكل.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1)
    - [دورة برمجة المواقع مع جانغو من برمج دوت كوم.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django)
    - [دورة جانغو لبناء مدونة لمحمود أحمد.](https://www.youtube.com/playlist?list=PLTjpmsGYzQq7V94Vv4MewNdJG8e3Ax4mC)
+   - [Django Forms لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeaLJsAmb5O2F2T-QDxPc7Ut)
+   - [إنشاء متجر إلكتروني لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKebUJtwiOm7Yso5HgN3jC8Ll)
+   - [Real Time Chat with Django-channels لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeYoiobPZmO7HtIoFBt6hV0O)
+   - [To Do List Django 2.0 لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeZfwfZ9QMb1XlTgwmTrxQBK)
+   - [build advanced blog لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeYpg51JOvlf-Znj78i_V_n_)
+   - [Blog API with Django Rest Framework لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeYrNzeF48o-z53DA14JZ-d9)
    - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/django/)
    - [دورة إطار عمل جانغو من عالم البرمجة.](https://3alam.pro/albader/series/django)
    - [Python Django - تطوير المواقع لـ Elsafy Hegazy.](https://www.youtube.com/playlist?list=PLdZYzC8fohEKjuYyvITqYc2vL0lAWRvhs)
