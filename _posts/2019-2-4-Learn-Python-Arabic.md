@@ -1,8 +1,9 @@
 ---
 layout: post
-title: مصادر لتعلم لغة البرمجة بايثون
+title: مصادر عربية لتعلم لغة البرمجة بايثون
 published: true
 ---
+![image](/images/posts/python.png)
 مصادر عربية لتعلم لغة البرمجة بايثون في جميع مجالات اللغة.
 
 أولًا: هنالك دورات شاملة تقريبًا تحتوي على الأساسيات والبرمجة كائنية التوجه والتعامل مع قواعد البيانات والملفات إلخ ...
@@ -13,62 +14,49 @@ published: true
 
 
 
-##### دورات شاملة تقريبًا:
+## أنواع مصادر التعلم:
 
-1. [دورة محمد عيسى: دورة Python 3 اساسيات ومتقدم](https://www.youtube.com/playlist?list=PLMYF6NkLrdN98I0nEXOuR_gK8b4w-NJcN)
+* [دورات شاملة](#دورات-شاملة)
+* [دورات حسب الموضوع](#دورات-حسب-الموضوع)
+* [كتب](#كتب)
+* [مواقع](#مواقع)
+* [مجتمعات بايثون العربية](#مجتمعات-بايثون-العربية)
+
+
+
+##### دورات شاملة:
+
+1. [محمد عيسى: دورة Python 3 اساسيات ومتقدم](https://www.youtube.com/playlist?list=PLMYF6NkLrdN98I0nEXOuR_gK8b4w-NJcN)
 
    - المقدمة وتثبيت المحرر PyCharm لكتابة الكود.
-
    - الأساسيات.
-
    - التعابير المنطقية.
-
    - معالجة الأخطاء
-
    - الدوال.
-
    - التعامل مع الملفات.
-
    - البرمجة كائنية التوجه OOP.
-
    - التعامل مع أهم المكاتب الأساسية.
-
    - تثبيت المكاتب الخارجية والتعامل معها، بالإضافة لبناء مكتبة خاصة بك.
-
    - التعامل مع قاعدة بيانات sqlite.
-
    - التعامل مع مكتبة tkinter لبناء واجهة بسيطة.
 
      
 
-2. [دورة حسين الربيعي: دورة برمجة بايثون Python Tutorials Arabic](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1j4hxoqXqJk08ASU7D_W87)
+2. [حسين الربيعي: دورة برمجة بايثون Python Tutorials Arabic](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1j4hxoqXqJk08ASU7D_W87)
 
    - كيفية تثبيت بايثون.
-
    - الأساسيات.
-
    - التعابير المنطقية.
-
    - تتبع التنفيذ Debug لكشف الأخطاء.
-
    - معالجة الأخطاء.
-
    - الدوال.
-
    - التعامل مع الملفات.
-
    - البرمجة كائنية التوجه OOP.
-
    - تثبيت المكاتب الخارجية والتعامل معها، بالإضافة لبناء مكتبة خاصة بك.
-
    - التعامل مع قاعدة بيانات sqlite.
-
    - التعامل مع json.
-
    - تعلم بناء واجهة تطبيق مع تنفيذ لعبة Tic Tac Toy.
-
    - تنفيذ مشروح نظام حجوزات.
-
    - شرح مكتبة networkx.
 
      
@@ -89,7 +77,6 @@ published: true
    3. [الجزء الثالث:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdro121Y1IAbPOydAhyL13a)
 
       - المقدمة.
-
       - التعامل مع أهم المكاتب الأساسية.
 
    4. [الجزء الرابع:](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdRIJa8fdHeVhDG46G3cA2e)
@@ -101,29 +88,17 @@ published: true
 4. [دورة أكادمية حسونة: Python بايثون الكل](https://www.youtube.com/watch?v=MxYLqE3Ils8&list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep)
 
    - معلومات عامة عن البايثون واستخداماتها.
-
    - كيفي تثبيت بايثون.
-
    - الأساسيات.
-
    - التعامل مع الملفات والمجلدات.
-
    - شرح جملة with.
-
    - التعامل مع التاريخ والوقت.
-
    - التعابير المنطقية.
-
    - معالجة الأخطاء.
-
    - التعامل مع ملفات csv.
-
    - الدوال.
-
    - شرح pass.
-
    - البرمجة كائنية التوجه OOP.
-
    - شرح مكتبة tkinter بشكل موسع لبناء واجهة.
 
      
@@ -131,59 +106,32 @@ published: true
 5. [دورة قناة بايثون حسام الحوراني:](https://www.youtube.com/watch?v=AA7lc2Y6bzI&list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB)
 
    - الأسياسيات بشكل سريع.
-
    - الاحصاء والرياضيات.
-
    - شرح مكتبة Numpy.
-
    - شرح مكتبة MatPlotLib.
-
    - شرح مكتبة Pandas.
-
    - الرياضيات بالرموز والتفاضل والتكامل وشرح مكتبة SymPy.
-
    - البرمجة كائنية التوجه OOP.
-
    - رسومات الاحصاء وشرح مكتبة Seaborn.
-
    - شرح مكتبة Scipy.
-
    - شرح المكتبات التي تتعامل مع Excel.
-
    - قواعد البيانات وشرح مكتبة SQLAlchemy و SQLite.
-
    - شرح مكتبة Bokeh للرسومات التفاعلية.
-
    - التعلم العميق مع Keras.
-
    - معالجة الصور Pillow.
-
    - معالجة اللغات الطبيعية NLP NLTK.
-
    - الوسائط المتعددة والرسومات والألعاب pyglet.
-
    - تخزين وتحميل مخرجات نماذج تعلم الالة والتعلم العميق
-
    - الارشادات والحيل في بايثون.
-
    - شرح مكتبة Arcade لبرمجة الألعاب.
-
    - التعامل مع  قواعد البيانات MySQL والتعامل مع مكتبة Pymysql.
-
    - التعامل مع ملفات json.
-
    - شرح مكتبة Theano.
-
    - شرح مكتبة Tensorflow.
-
    - التعامل مع ملفات csv و xml و txt.
-
    - شرح حول Image Processing, Video Processing باستخدام مكتبة OpenCV.
-
    - التعابير المنطقية.
-
    - شرح مكتبة VPython.
-
    - فحص واختبار برمجيات بايثون.
 
      
@@ -191,19 +139,12 @@ published: true
 6. [البرمجة المكثفة باستخدام بايثون لعبد المجيب غير مجانية:](https://www.flexcourses.com/courses/python-intensive)
 
     - الأساسيات.
-
     - الدوال.
-
     - الدوال المجهولة.
-
     - البرمجة كائنية التوجه OOP.
-
     - الحزم والوحدات.
-
     - Decorators.
-
     - Generators.
-
     - شرح بعض Modules الأساسية.
 
       
@@ -234,9 +175,7 @@ published: true
 
 10. [دورة نور حمصي: البايثون يتكلم عربي](https://www.youtube.com/playlist?list=PLPTNqXpQ2tbiesxZbUuG-kxi7_dKBYkcY)
 
-    - الأساسيات.
-
-        
+    - الأساسيات.       
 
 11. [مقدمة إلى برمجة الحاسب باستخدام لغة بايثون من رواق.](https://www.rwaq.org/courses/introduction-to-programming)
 
@@ -252,16 +191,11 @@ published: true
 
 ##### دورات حسب الموضوع:
 
-
-
 1. Python Security And Network:
 
    - [عبد الله السكري](https://www.youtube.com/watch?v=2DqgWxvpwIY&list=PLCIJjtzQPZJ-k4ADq_kyuyWVSRPC5JxeG)
-
    - [محمد عيسى شبكات](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9wzmjRlcO1UsqgO6KUTODC)
-
    - [محمد عيسى قرصنة](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8DPzAOW-ceFdrp-KTUSHFR)
-
    - [دورة أساسيات بايثون واستخدامها في اختبار الإختراق.](https://www.youtube.com/playlist?list=PLqi7yZF-SFcYEU_6u2MJw-pwl7d8wthpK)
 
      
@@ -274,23 +208,14 @@ published: true
 3. Python GUI:
 
    - [شرح مكتبة Tkinter لمحمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z)
-
    - [شرح مكتبة Tkinter لمحمد رؤوف](https://www.youtube.com/playlist?list=PLUgHGaXGKJGmERb_7Uamn1eI9b3Gunh0g)
-
    - [شرح مكتبة kivy لمحمود رؤوف](https://www.youtube.com/playlist?list=PLUgHGaXGKJGkerqrnl_u9woXKdtUH_hfs)
-
    - [شرح مكتبة PyQT لمحمود أحمد](https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC)
-
    - [تصميم تطبيقات الديسك توب ب Qt Designer لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf0sQkpTQhufQ0nW8rqqG4q)
-
    - [شرح مكتبة Tkinter لأكادمية حسونة](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K)
-
    - [برمجة مشروع لتحميل من اليوتيوب بواجهة PyQT5 لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0)
-
    - [برمجة نظام لإدارة مكتبة بفروعها بواجهة PyQT5](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdxuWWox8bJAiT1AuRjDM7Z)
-
    - [شرح مكتبة Tkinter للصافي حجازي.](https://www.youtube.com/playlist?list=PLdZYzC8fohEJBXcDCBoDGyo8paxECbATK)
-
    - [شرح مكتبة PyQT5 للصافي حجازي.](https://www.youtube.com/playlist?list=PLdZYzC8fohEJw0HjpUUyjU6z9H8ZY-PeP)
 
      
@@ -298,23 +223,17 @@ published: true
 4. Database:
 
    - [database (ORM) لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeY8rD2K0805eVrdR4qlxkpt)
-
    - [محمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK)
-
-   - [التعامل مع الداتا بيز ببايثون | python mysql لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
+   - [التعامل مع الداتا بيز لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
 
      
 
 5. Machine Learning:
 
    - [حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R)
-
    - [أبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHC3uV0T6TTndqNDDR69tN_1)
-
    - [حازم خالد محمد](https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS)
-
    - [Neural Network بالعربي](https://www.youtube.com/playlist?list=PLAI6JViu7XmfZsTX6pJPMgMHwLXAEPlKe)
-
    - [Deep learning](https://www.youtube.com/playlist?list=PLAI6JViu7XmflH_eGgsWkwvv6lbXhYjjY)
 
      
@@ -322,7 +241,6 @@ published: true
 6. Data Analysis:
 
    - [شرح مكتبة Pandas.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
-
    - [مدخل إلى علم البيانات المستوى الأول من رواق.](https://www.rwaq.org/courses/sea_python_level1)
 
      
@@ -336,11 +254,8 @@ published: true
 8. Web Crawling:
 
    - [شرح مكتبة PyQuery لأبو بكر سليمان](https://www.youtube.com/watch?v=GX4DR8_eeM4&list=PLvLvlVqNQGHBxA9uRN_x9r6BrcBqi526F)
-
    - [شرح مكتبة Selenium لأبو بكر سليمان](https://www.youtube.com/playlist?list=PLvLvlVqNQGHD1XUJSYfYezvs9gLdaWHId)
-
    - [selenium in python {Necktie}](https://www.youtube.com/playlist?list=PLwerRebku82Fcw4EBYs1EOlUlP3msNdxg)
-
    - [Web Scraping With Beautiful Soup لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeZwTnMl7MFPUyo_qsh0z_ND)
 
      
@@ -366,61 +281,28 @@ published: true
       
     
 12. Flask:
-	- [دورة تعلم Flask.](https://www.youtube.com/playlist?list=PLfDx4cQoUNObFOYvkcNQG8arJX95TRE47)
-	
-	- [Flask Web Development لمهدي أحمد.](https://www.youtube.com/playlist?list=PLl7A6RG4XKeZo9gNbZ4vNygMHm7a7-E7G)
-	
+
+    - [دورة تعلم Flask.](https://www.youtube.com/playlist?list=PLfDx4cQoUNObFOYvkcNQG8arJX95TRE47)
+    - [Flask Web Development لمهدي أحمد.](https://www.youtube.com/playlist?list=PLl7A6RG4XKeZo9gNbZ4vNygMHm7a7-E7G)
     - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/flask/)
-    
     - [كتاب استكشف فلاسك.](https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83)
-    
     - [دورة ترجمة كتاب flask mega.](https://www.youtube.com/playlist?list=PLHqnUR3OCFAnVs_oFATDk0byWdc4X15PX)
-      
+    
       
     
-13. Django:
-   - [دورة جانغو لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB)
-   - [Django Tutorials Level 2 (REST API) لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRCqH9qJSM67ZPBC7MD1Pa3)
-   - [دورة جانغو الإصدار الثاني لأحمد أبو عيسى.](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4)
-   - [دورة إنشاء موقع Vezeta بإستخدام Django لمحمود رؤوف](https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn)
-   - [الدليل الشامل لتعلم دجانجو 3 لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfv9yQelR4HETqU35alUoW6)
-   - [المرجع الشامل لتعلم دجانجو](https://code4learn.teachable.com/p/python-django-full-guide-arabic)
-   - [ابدا اتعلم جانغو لمحمود أحمد.](https://code4learn.teachable.com/p/learn-django-in-arabic)
-   - [كيفيه التعامل مع المستخدمين دجانجو 2.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfm1KN_9qc7vpn5e9XwP9U3)
-   - [برمجة متجر الكتروني ببايثون ودجانجو 2.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg)
-   - [التعامل مع ال Class Based Views في دجانجو](https://www.youtube.com/playlist?list=PLtGOJcWqvbqc3cbs0cpSrr1jiGgSbjlik)
-   - [مكتبات خاصة بجانغو لمحمود أحمد.](https://code4learn.teachable.com/p/d4a3d7)
-   - [مدونة تحتوي على مقالات خاصة بجانغو.](https://code4learn.teachable.com/blog)
-   - [دورة جانغو لحسين الربيعي.](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3VqZkeKeyVdJ_J1Ek0ECbs)
-   - [دورة جانغو ببايثون 2 لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJ7r0APq7O87gucjYWRfD)
-   - [دورة جانغو 1.11 لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-3ecpi7jD4pwxsyPVHWb4C)
-   - [دورة جانغو 2 REST API.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_8KPztmgiAZpsNfXJcI-v5)
-   - [كيفية التعامل مع المستخدمين في جانغو.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5gwryXy9uxpPhm236hL42)
-   - [اساسيات برمجة المواقع بجانغو.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ)
-   - [كيفيه رفع مشروع جانجو على DigitalOcean.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqeVCY78dcKJFXItin0BEujT)
-   - [كلام في جانغو يحتوي على بعض النصائح وحلول للمشاكل.](https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1)
-   - [دورة برمجة المواقع مع جانغو من برمج دوت كوم.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django)
-   - [دورة جانغو لبناء مدونة لمحمود أحمد.](https://www.youtube.com/playlist?list=PLTjpmsGYzQq7V94Vv4MewNdJG8e3Ax4mC)
-   - [Django Forms لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeaLJsAmb5O2F2T-QDxPc7Ut)
-   - [إنشاء متجر إلكتروني لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKebUJtwiOm7Yso5HgN3jC8Ll)
-   - [Real Time Chat with Django-channels لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeYoiobPZmO7HtIoFBt6hV0O)
-   - [To Do List Django 2.0 لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeZfwfZ9QMb1XlTgwmTrxQBK)
-   - [build advanced blog لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeYpg51JOvlf-Znj78i_V_n_)
-   - [Blog API with Django Rest Framework لمهدي أحمد](https://www.youtube.com/playlist?list=PLl7A6RG4XKeYrNzeF48o-z53DA14JZ-d9)
-   - [مقالات أكادمية حسوب.](https://academy.hsoub.com/programming/python/django/)
-   - [دورة إطار عمل جانغو من عالم البرمجة.](https://3alam.pro/albader/series/django)
-   - [Python Django - تطوير المواقع لـ Elsafy Hegazy.](https://www.youtube.com/playlist?list=PLdZYzC8fohEKjuYyvITqYc2vL0lAWRvhs)
-
-
-
+11. Django:
+   - [مصادر عربية لتعلم إطار العمل جانغو.]({% post_url 2020-8-11-Learn-Django-Arabic %})
+    
+      
+    
 ##### كتب:
 
-1. [تعليم بايثون 3.](https://itwadi.com/node/2621)
-
-2. [فكر بايثون.](https://www.kutub.info/library/book/19881)
-3. [خطوة على طريق بايثون.](https://itwadi.com/byteofpython_arabi)
-4. [مقدمة في البرمجة عن طريق بايثون.](https://linuxac.org/filedata/fetch?id=852858)
-5. [نزهة مع بايثون.](https://drive.google.com/file/d/1IOQjGyNB52ylhKCqT6qttI4koskpTKan/view?usp=drivesdk)
+1. [البرمجة بلغة بايثون من أكادمية حسوب](https://academy.hsoub.com/files/15-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86/)
+2. [تعليم بايثون 3.](https://itwadi.com/node/2621)
+3. [فكر بايثون.](https://www.kutub.info/library/book/19881)
+4. [خطوة على طريق بايثون.](https://itwadi.com/byteofpython_arabi)
+5. [مقدمة في البرمجة عن طريق بايثون.](https://linuxac.org/filedata/fetch?id=852858)
+6. [نزهة مع بايثون.](https://drive.google.com/file/d/1IOQjGyNB52ylhKCqT6qttI4koskpTKan/view?usp=drivesdk)
 
 
 
@@ -439,13 +321,13 @@ published: true
 1. Telegram:
 
    - [مجتمع بايثون.](https://t.me/arabipython)
-   - [مجتمع جانغو.](https://t.me/DjangoPython)
 
 2. Website:
 
    - [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
-   - [مجتمع جانغو في حسوب.](https://io.hsoub.com/django)
    - [مجتمع فلاسك في حسوب.](https://io.hsoub.com/Flask)
 
    
 
+> ليس المهم نوع المضمار الذي تسلكه، لكن المهم إذا اخترتَ مضماراً .. أن تكون بطله !
+> * [عمار بن ناصر العتيبي](https://www.youtube.com/watch?v=GQfy_wLbKx8)
