@@ -49,7 +49,11 @@ published: true
 - [Python 3 Django framework 1.11 مشروع من الصفر الى عمل تطبيق ويب جانكو بايثون.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-3ecpi7jD4pwxsyPVHWb4C)
 - [Django 2 REST API JWT CRUD.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_8KPztmgiAZpsNfXJcI-v5)
 
-6. أخرى:
+6. أسماء الطويل:
+- [Django Tutorial for Beginners.](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL)
+- [Django Rest Framework Tutorial.](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3dglbz0tvLqJTJPVPgjW1x)
+
+7. أخرى:
 - [دورة برمجة المواقع مع جانغو من برمج دوت كوم.](https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django)
 - [دورة إنشاء موقع Vezeta بإستخدام Django محمود رؤوف](https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn)
 - [دورة جانغو حسين الربيعي.](https://www.youtube.com/playlist?list=PLF8OvnCBlEY3VqZkeKeyVdJ_J1Ek0ECbs)  
@@ -73,4 +77,5 @@ published: true
 
 
 > وإني وإن كنتُ الأخيرَ زمانهُ ... لآتٍ بما لم تستطعهُ الأوائلُ
+>
 > * أبو العلاء المعري
