@@ -308,7 +308,9 @@ footer {
 }
 
 .kufi-font-loaded {
-  h1, h2, h3, h4, h5, h6 { font-family: $heading-font-family; }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
+  }
 
   .site-name {
     font-family: $heading-font-family;
@@ -376,7 +378,6 @@ ul.side-nav li a {
   padding-top: 25px;
   padding-bottom: 5px;
 }
-
 .seriesNote > ul > li {
   list-style-type: none;
 }
@@ -386,7 +387,6 @@ ul.side-nav li a {
 .categories ul li {
   display: inline-block;
 }
-
 .tags ul li a,
 .categories ul li a {
   position: relative;
@@ -406,7 +406,6 @@ ul.side-nav li a {
   text-decoration: none;
   transition: .2s;
 }
-
 .tags ul li span,
 .categories ul li span {
   position: absolute;
@@ -424,12 +423,10 @@ ul.side-nav li a {
   text-align: center;
   transition: .2s;
 }
-
 .categories {
   direction: ltr;
   text-align: left;
 }
-
 .pagination {
   padding-top: 20px;
 }
