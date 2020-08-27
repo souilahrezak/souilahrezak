@@ -85,7 +85,7 @@ a {
 
 ul, ol {
   margin: 15px 0;
-  padding-right: 30px;
+  padding-right: 10px;
 }
 
 ul {
@@ -309,15 +309,149 @@ footer {
 
 .kufi-font-loaded {
   h1, h2, h3, h4, h5, h6 { font-family: $heading-font-family; }
-  .site-name             { font-family: $heading-font-family; }
-  nav                    { font-family: $heading-font-family; }
-  .read-more             { font-family: $heading-font-family; }
-  .date                  { font-family: $heading-font-family; }
+
+  .site-name {
+    font-family: $heading-font-family;
+  }
+
+  nav {
+    font-family: $heading-font-family;
+  }
+
+  .read-more {
+    font-family: $heading-font-family;
+  }
+
+  .date {
+    font-family: $heading-font-family;
+  }
 }
 
 .kawkab-font-loaded {
-  code { font-family: $code-font-family; }
+  code {
+    font-family: $code-font-family;
+  }
 }
+
+// edit for my bloge
+// #data-category {
+//   float: left;
+
+// }
+.archivetitle {
+  font-size: 18px;
+}
+
+ul.side-nav li span {
+  float: left;
+  font-family: monofur, monaco, courier;
+  color: #888;
+  font-size: 17px;
+  display: block;
+}
+
+ul.side-nav li a {
+  font-size: 17px;
+}
+
+.side-nav {
+  list-style-type: none;
+}
+
+.side-nav > li {
+  border-top: 1px solid #cbcbcb;
+}
+
+
+.seriesNote ul li {
+  border-bottom: 1px solid #cbcbcb;
+}
+
+.seriesNote ul {
+  margin: 5px 0;
+  border-top: 1px solid #cbcbcb;
+}
+
+.seriesNote {
+  padding-top: 25px;
+  padding-bottom: 5px;
+}
+
+.seriesNote > ul > li {
+  list-style-type: none;
+}
+
+
+.tags ul li,
+.categories ul li {
+  display: inline-block;
+}
+
+.tags ul li a,
+.categories ul li a {
+  position: relative;
+  display: inline-block;
+  max-width: 250px;
+  height: 28px;
+  line-height: 28px;
+  padding: 0 2.5em 0 1em;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #333;
+  font-size: 13px;
+  text-decoration: none;
+  transition: .2s;
+}
+
+.tags ul li span,
+.categories ul li span {
+  position: absolute;
+  top: 3px;
+  right: 5px;
+  z-index: 1;
+  width: 17px;
+  height: 17px;
+  line-height: 0.9rem;
+  background-color: #777;
+  border-radius: 100%;
+  color: #fff;
+  font-size: 10px;
+  padding: 3px;
+  text-align: center;
+  transition: .2s;
+}
+
+.categories {
+  direction: ltr;
+  text-align: left;
+}
+
+.pagination {
+  padding-top: 20px;
+}
+
+.pagination a,
+.pagination span {
+  padding-left: 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.top small {
+  font-size: 15px;
+}
+
+.date {
+  font-size: 13px;
+  float: right;
+  text-align: right;
+}
+
+// end edit
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

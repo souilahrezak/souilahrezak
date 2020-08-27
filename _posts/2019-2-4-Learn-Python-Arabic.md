@@ -2,9 +2,19 @@
 layout: post
 title: مصادر عربية لتعلم لغة البرمجة بايثون
 published: true
+date: 2019-2-4
+update: 2020-8-11
+author: أبو تيم
+permalink: /Learn-Python-Arabic/
+categories: [course, python, python-arabic]
+series: "سلسلة تعلم بايثون بالعربي"
 ---
 ![image](/images/posts/python.png)
-مصادر عربية لتعلم لغة البرمجة بايثون في جميع مجالات اللغة.
+
+
+{% include series.html %}
+
+**مصادر عربية لتعلم لغة البرمجة بايثون في جميع مجالات اللغة:**
 
 أولًا: هنالك دورات شاملة تقريبًا تحتوي على الأساسيات والبرمجة كائنية التوجه والتعامل مع قواعد البيانات والملفات إلخ ...
 

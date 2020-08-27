@@ -2,8 +2,16 @@
 layout: post
 title: مصادر عربية لتعلم تقنية Docker
 published: true
+date: 2020-5-15
+update: 2020-8-11
+author: AboTyim
+permalink: /Learn-Docker-Arabic/
+categories: [course, docker, docker-arabic]
 ---
 ![image](/images/posts/docker.png)
+
+
+{% include series.html %}
 
 **المصادر الموفرة لهذه التقنية على عدة أشكال:**
 

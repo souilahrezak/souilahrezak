@@ -3,17 +3,40 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+    <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
-  </div>
-  
-  {% include donate.html %}
+    {% if page.categories%}
+    <div class="tags">
+        <ul>
+            {% assign categories = page.categories | sort %}
 
-  <div class="date">
-    كُتب في {{ page.date | date: "%d/%m/%Y" }}
-  </div>
+            {% for category in categories %}
+            <li>
+                <a href="/categories#{{ category | slugify }}">{{ category | replace:'-', ' ' }} <span></span></a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif%}
+
+    <div class="entry">
+        {{ content }}
+    </div>
+
+    {% include donate.html %}
+
+    <div class="date">
+        تاريخ الإنشاء: {{ page.date | date: "%d/%m/%Y" }}
+
+        {% if page.update%}
+        <br>
+        تاريخ التعديل: {{ page.update | date: "%d/%m/%Y" }}
+        {% endif%}
+        <br>
+        {% if page.author %}
+        المدون: {{ page.author }}
+        {% endif %}}
+    </div>
 
   {% include disqus.html %}
 </article>

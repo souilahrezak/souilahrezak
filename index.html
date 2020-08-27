@@ -3,15 +3,35 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+  {% for post in paginator.posts %}
+  <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">اكمل القراءة</a>
-    </article>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">اكمل القراءة</a>
+  </article>
   {% endfor %}
 </div>
+
+
+{% if paginator.total_pages > 1 %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; السابق</a>
+  {% else %}
+  <span>&laquo; السابق</span>
+  {% endif %}
+
+
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}">التالي &raquo;</a>
+  {% else %}
+  <span>التالي &raquo;</span>
+  {% endif %}
+</div>
+
+{% endif %}
