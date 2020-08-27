@@ -26,16 +26,16 @@ layout: default
     {% include donate.html %}
 
     <div class="date">
+        {% if page.author %}
+        المدون: {{ page.author }}
+        {% endif %}
+        <br>
         تاريخ الإنشاء: {{ page.date | date: "%d/%m/%Y" }}
 
         {% if page.update%}
         <br>
         تاريخ التعديل: {{ page.update | date: "%d/%m/%Y" }}
         {% endif%}
-        <br>
-        {% if page.author %}
-        المدون: {{ page.author }}
-        {% endif %}
     </div>
 
   {% include disqus.html %}
