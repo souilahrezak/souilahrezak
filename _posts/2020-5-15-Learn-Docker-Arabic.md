@@ -3,7 +3,7 @@ layout: post
 title: مصادر عربية لتعلم تقنية Docker
 published: true
 date: 2020-5-15
-update: 2020-8-11
+update: 2020-8-31
 author: AboTyim
 permalink: /Learn-Docker-Arabic/
 categories: [course, docker, docker-arabic]
@@ -29,6 +29,7 @@ categories: [course, docker, docker-arabic]
 - [دورة Learn Docker مدفوعة.](https://www.udemy.com/course/docker-ar/)
 - [فيديو يشرح مقدمة في Docker.](https://www.youtube.com/watch?v=nQ6tflsf0aU)
 - [محاضرة: مقدمة إلى تقنية الحاويات نوف المقاطي من Google.](https://www.youtube.com/watch?v=wRl4Zzpcblk)
+- [سلسلة تعليم دوكر من صوت المبرمج.](https://www.youtube.com/playlist?list=PL_vMoUyBr3srNzFgQXbAjcxMfb-JpRyIN)
 
 
 
@@ -39,6 +40,7 @@ categories: [course, docker, docker-arabic]
 - [سلسلة مقالات للأخ وجدي عصام عبد الرحيم.](https://informatic-ar.com/category/programming/docker/)
 - [سلسلة مقالات مقدمة إلى Docker مقدمة من عالم البرمجة.](https://3alam.pro/3mmarg97/series/introduction-to-docker)
 - [مقال يشرح Docker Containers.](https://www.r1sk.net/docker-containers/)
+- [شرح من بودكاست null++](https://nullplus.plus/episodes/episode5-docker-intro-quick-tips)
 
   
 
