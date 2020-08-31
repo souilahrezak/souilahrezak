@@ -16,7 +16,8 @@ categories: [course, docker, docker-arabic]
 **المصادر الموفرة لهذه التقنية على عدة أشكال:**
 
 1. [مرئية](#المصادر-المرئية).
-2. [مقروءة](#المصادر-المقروءة).
+2. [مسموعة.](#المصادر-المسموعة)
+3. [مقروءة](#المصادر-المقروءة).
 
    
 
@@ -33,6 +34,12 @@ categories: [course, docker, docker-arabic]
 
 
 
+##### المصادر المسموعة:
+
+- [شرح من بودكاست null++](https://nullplus.plus/episodes/episode5-docker-intro-quick-tips)
+
+
+
 ##### المصادر المقروءة:
 
 - [كتاب خطواتك الأولى في Docker للأخ وجدي عصام عبد الرحيم.](https://informatic-ar.com/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA%D9%83-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%81%D9%8A-%D8%AF%D9%88%D9%83%D8%B1/)
@@ -40,7 +47,6 @@ categories: [course, docker, docker-arabic]
 - [سلسلة مقالات للأخ وجدي عصام عبد الرحيم.](https://informatic-ar.com/category/programming/docker/)
 - [سلسلة مقالات مقدمة إلى Docker مقدمة من عالم البرمجة.](https://3alam.pro/3mmarg97/series/introduction-to-docker)
 - [مقال يشرح Docker Containers.](https://www.r1sk.net/docker-containers/)
-- [شرح من بودكاست null++](https://nullplus.plus/episodes/episode5-docker-intro-quick-tips)
 
   
 
