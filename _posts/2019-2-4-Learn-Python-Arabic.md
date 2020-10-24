@@ -204,6 +204,8 @@ series: "سلسلة تعلم بايثون بالعربي"
 1. Python Security And Network:
 
    - [عبد الله السكري](https://www.youtube.com/watch?v=2DqgWxvpwIY&list=PLCIJjtzQPZJ-k4ADq_kyuyWVSRPC5JxeG)
+   - [Python & Nmap | Network Security لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8yzhFaq81BUegzMN_pdXFl)
+   - [Python Network & Mikrotik لمحمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN89W45s3c6kbjs0fHM8fe0c)
    - [محمد عيسى شبكات](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9wzmjRlcO1UsqgO6KUTODC)
    - [محمد عيسى قرصنة](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8DPzAOW-ceFdrp-KTUSHFR)
    - [دورة أساسيات بايثون واستخدامها في اختبار الإختراق.](https://www.youtube.com/playlist?list=PLqi7yZF-SFcYEU_6u2MJw-pwl7d8wthpK)
@@ -303,8 +305,13 @@ series: "سلسلة تعلم بايثون بالعربي"
 11. Django:
    - [مصادر عربية لتعلم إطار العمل جانغو.]({% post_url 2020-8-11-Learn-Django-Arabic %})
     
-      
-    
+
+12. Telegram Bot:
+
+    - [Python & Telegram لمحمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_FTKGUnmLVeCAn6BblkkbV)
+
+
+
 ##### كتب:
 
 1. [البرمجة بلغة بايثون من أكادمية حسوب](https://academy.hsoub.com/files/15-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86/)

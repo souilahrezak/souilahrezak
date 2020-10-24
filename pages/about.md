@@ -86,7 +86,7 @@ permalink: /about/
 - [ddrescueview](https://sourceforge.net/projects/ddrescueview/)
 - [dcfldd](http://dcfldd.sourceforge.net/)
 - [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)
-- [recoverjpeg](https://github.com/samueltardieu/recoverjpeg) & [recovermov](https://github.com/samueltardieu/recoverjpeg)
+- [recoverjpeg](https://github.com/samueltardieu/recoverjpeg)
 - [foremost: Data Carving](http://foremost.sourceforge.net/)
 - [Scalpel: Data Carving](https://github.com/sleuthkit/scalpel)
 
