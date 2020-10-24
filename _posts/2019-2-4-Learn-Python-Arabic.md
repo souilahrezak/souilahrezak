@@ -204,7 +204,7 @@ series: "سلسلة تعلم بايثون بالعربي"
 1. Python Security And Network:
 
    - [عبد الله السكري](https://www.youtube.com/watch?v=2DqgWxvpwIY&list=PLCIJjtzQPZJ-k4ADq_kyuyWVSRPC5JxeG)
-   - [Python & Nmap | Network Security لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8yzhFaq81BUegzMN_pdXFl)
+   - [Python & Nmap لمحمد عيسى.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8yzhFaq81BUegzMN_pdXFl)
    - [Python Network & Mikrotik لمحمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN89W45s3c6kbjs0fHM8fe0c)
    - [محمد عيسى شبكات](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9wzmjRlcO1UsqgO6KUTODC)
    - [محمد عيسى قرصنة](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8DPzAOW-ceFdrp-KTUSHFR)
