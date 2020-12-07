@@ -2,8 +2,8 @@
 layout: post 
 title: مصادر عربية لتعلم نظام التشغيل Linux 
 published: true 
-date: 2021-1-6
-update: 2021-1-7
+date: 2020-12-7
+update: 2020-12-7
 author: أبو تيم
 permalink: /Learn-Linux-Arabic/ 
 categories: [course, course-arabic, linux, linux-arabic]
