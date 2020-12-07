@@ -2,8 +2,8 @@
 layout: post 
 title: مصادر عربية لتعلم إطار العمل Django 
 published: true 
-date: 2020-8-11 
-update: 2020-8-10 
+date: 2020-8-11
+update: 2020-8-10
 author: أبو تيم
 permalink: /Learn-Django-Arabic/
 categories: [course, course-arabic, python, django, django-arabic]
@@ -11,6 +11,7 @@ tags: [python, django, learn-django, arabic-django]
 image: /images/posts/django.png 
 series: "سلسلة تعلم بايثون بالعربي"
 ---
+
 ![image](/images/posts/django.png)
 
 

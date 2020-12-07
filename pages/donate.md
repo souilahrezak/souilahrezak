@@ -1,5 +1,7 @@
 ---
-layout: default title: Donate permalink: /donate/
+layout: default 
+title: ادعمنا 
+permalink: /donate/
 ---
 
 {% include donate.html %}

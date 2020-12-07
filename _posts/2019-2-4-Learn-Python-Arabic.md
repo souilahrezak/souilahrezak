@@ -4,6 +4,7 @@ layout: post title: مصادر عربية لتعلم لغة البرمجة با�
 tags: [python, learn-python, arabic-python]
 image: /images/posts/python.png series: "سلسلة تعلم بايثون بالعربي"
 ---
+
 ![image](/images/posts/python.png)
 
 
