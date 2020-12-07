@@ -1,12 +1,7 @@
 ---
-layout: post
-title: مصادر عربية لتعلم تقنية Docker
-published: true
-date: 2020-5-15
-update: 2020-8-31
-author: AboTyim
-permalink: /Learn-Docker-Arabic/
-categories: [course, docker, docker-arabic]
+layout: post title: مصادر عربية لتعلم تقنية Docker published: true date: 2020-5-15 update: 2020-8-31 author: AboTyim
+permalink: /Learn-Docker-Arabic/ categories: [course, course-arabic, docker, docker-arabic]
+tags: [docker, learn-docker, arabic-docker]
 ---
 ![image](/images/posts/docker.png)
 
@@ -48,7 +43,6 @@ categories: [course, docker, docker-arabic]
 - [سلسلة مقالات مقدمة إلى Docker مقدمة من عالم البرمجة.](https://3alam.pro/3mmarg97/series/introduction-to-docker)
 - [مقال يشرح Docker Containers.](https://www.r1sk.net/docker-containers/)
 
-  
-
 > أطلبُ العِلمَ ولا تكسَلْ فمـا ... أبعـدَ الخيرَ على أهـلِ الكَسَلْ
-> * لامية ابن الوردي
+>
+> * [لامية ابن الوردي](https://www.youtube.com/watch?v=CzGfuo-k6Q4)

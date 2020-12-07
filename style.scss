@@ -284,7 +284,8 @@ nav {
   font-size: 13px;
   float: right;
   text-align: right;
-  margin-top: 2em;
+  margin-top: 10px;
+  margin-bottom: 15px;
   color: $gray;
 }
 
@@ -443,6 +444,27 @@ ul.side-nav li a {
 .top small {
   font-size: 15px;
 }
+
+.btc {
+  text-align: center;
+  display: block;
+  font-size: smaller;
+}
+
+
+.qrcode {
+  width: 250px;
+}
+
+.crypto-icon {
+  width: 100px;
+}
+
+.donate_button {
+  width: 300px;
+}
+
+
 // end edit
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

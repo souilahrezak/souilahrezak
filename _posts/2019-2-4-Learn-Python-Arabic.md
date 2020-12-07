@@ -1,12 +1,7 @@
 ---
-layout: post
-title: مصادر عربية لتعلم لغة البرمجة بايثون
-published: true
-date: 2019-2-4
-update: 2020-8-11
-author: أبو تيم
-permalink: /Learn-Python-Arabic/
-categories: [course, python, python-arabic]
+layout: post title: مصادر عربية لتعلم لغة البرمجة بايثون published: true date: 2019-2-4 update: 2020-8-11 author: أبو
+تيم permalink: /Learn-Python-Arabic/ categories: [course, course-arabic, python, python-arabic]
+tags: [python, learn-python, arabic-python]
 series: "سلسلة تعلم بايثون بالعربي"
 ---
 ![image](/images/posts/python.png)
@@ -304,7 +299,7 @@ series: "سلسلة تعلم بايثون بالعربي"
     
 11. Django:
    - [مصادر عربية لتعلم إطار العمل جانغو.]({% post_url 2020-8-11-Learn-Django-Arabic %})
-    
+
 
 12. Telegram Bot:
 
@@ -344,7 +339,8 @@ series: "سلسلة تعلم بايثون بالعربي"
    - [مجتمع بايثون في حسوب.](https://io.hsoub.com/python)
    - [مجتمع فلاسك في حسوب.](https://io.hsoub.com/Flask)
 
-   
+
 
 > ليس المهم نوع المضمار الذي تسلكه، لكن المهم إذا اخترتَ مضماراً .. أن تكون بطله !
+>
 > * [عمار بن ناصر العتيبي](https://www.youtube.com/watch?v=GQfy_wLbKx8)
