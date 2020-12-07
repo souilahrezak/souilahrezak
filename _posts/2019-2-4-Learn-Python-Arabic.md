@@ -2,7 +2,7 @@
 layout: post title: مصادر عربية لتعلم لغة البرمجة بايثون published: true date: 2019-2-4 update: 2020-8-11 author: أبو
 تيم permalink: /Learn-Python-Arabic/ categories: [course, course-arabic, python, python-arabic]
 tags: [python, learn-python, arabic-python]
-series: "سلسلة تعلم بايثون بالعربي"
+image: /images/posts/python.png series: "سلسلة تعلم بايثون بالعربي"
 ---
 ![image](/images/posts/python.png)
 
