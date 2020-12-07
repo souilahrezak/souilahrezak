@@ -1,6 +1,12 @@
 ---
-layout: post title: مصادر عربية لتعلم تقنية Docker published: true date: 2020-5-15 update: 2020-8-31 author: أبو تيم
-permalink: /Learn-Docker-Arabic/ categories: [course, course-arabic, docker, docker-arabic]
+layout: post 
+title: مصادر عربية لتعلم تقنية Docker 
+published: true 
+date: 2020-5-15 
+update: 2020-8-31 
+author: أبو تيم
+permalink: /Learn-Docker-Arabic/ 
+categories: [course, course-arabic, docker, docker-arabic]
 tags: [docker, learn-docker, arabic-docker]
 image: /images/posts/docker.png
 ---
