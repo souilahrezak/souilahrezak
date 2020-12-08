@@ -1,9 +1,9 @@
 ---
 layout: post 
-title: مصادر عربية لتعلم نظام التشغيل Linux 
+title: مصادر عربية لتعلم نظام التشغيل GNU/Linux 
 published: true 
 date: 2020-12-7
-update: 2020-12-7
+update: 2020-12-8
 author: أبو تيم
 permalink: /Learn-Linux-Arabic/ 
 categories: [course, course-arabic, linux, linux-arabic]
@@ -15,7 +15,7 @@ image: /images/posts/linux.png
 
 {% include series.html %}
 
-**المصادر المتوفرة لتعلم نظام التشغيل لينكس على عدة أشكال:**
+**المصادر المتوفرة لتعلم نظام التشغيل جنو لينكس على عدة أشكال:**
 
 1. [مرئية](#المصادر-المرئية).
 2. [مقروءة](#المصادر-المقروءة).
