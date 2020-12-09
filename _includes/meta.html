@@ -26,6 +26,10 @@
 <meta property="og:description" content="{{ site.description }}">
 {% endif %}
 
+{% if page.image %}
+<meta property="og:image" content="{{ site.url }}{{page.image}}" />
+{% endif %}
+
 {% if page.author %}
 <meta content="{{ page.author }}" property="article:author">
 {% endif %}
