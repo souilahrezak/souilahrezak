@@ -40,11 +40,12 @@ image: /images/posts/linux.png
 
 3. منوع:
 
-- [Linux System Administration للمهندس مصطفى حمودة](https://www.youtube.com/playlist?list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7)
+- [Linux System Administration مصطفى حمودة](https://www.youtube.com/playlist?list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7)
 - [دورة تعلم نظام اللينكس للمهندس نادر](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg)
 - [دورة أساسيات لينكس من تكناوي دوت نت](https://www.youtube.com/playlist?list=PLs6emGC4vqRK0buaLWzZkxdNX6-WW0eh7)
 - [KVM](https://www.youtube.com/playlist?list=PL2Z9mQ8mdWnq5iZ1AOItsODys4IWeCDS3)
 - [linux distributions reviews مراجعات](https://www.youtube.com/playlist?list=PLBpclpRCG39qvWLuW94qCBzsr_iGTAyam)
+- [Linux Troubleshooting in Arabic آلاء زيدان](https://www.youtube.com/playlist?list=PLvMWV2u1t1TSMVvP8Vba55sEXYh9W6HXu)
 
 ##### المصادر المقروءة:
 
@@ -68,10 +69,11 @@ image: /images/posts/linux.png
 
 - [Linuxtopia](https://www.youtube.com/c/Linuxtopia)
 - [I'm Linux](https://www.youtube.com/c/iamlinux)
+- [Alaa Zidan](https://www.youtube.com/channel/UCYkWmRBvj9sVlRW3ahIxE2g)
 - [Arab Linux Community](https://www.youtube.com/channel/UCxUVBDLTSaVxjg0EyCWfFug)
 - [عرب جنو/لينكس](https://www.youtube.com/user/abdulmogeeb)
 - [Gnu Tux](https://www.youtube.com/c/GnuTux)
-- [oBuTr471b](https://www.youtube.com/channel/UCsX5z40As3fslwarTan4C8w)
+- [zer0err0r](https://www.youtube.com/channel/UCsX5z40As3fslwarTan4C8w)
 - [مفاتيح الحوسبة](https://www.youtube.com/channel/UCw-JnwpGHlboG0b9wNYvZ2Q)
 - [ITSoft](https://www.youtube.com/channel/UCMoMDhWBeMZhQ2axH8A1FIw)
 
