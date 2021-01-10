@@ -258,7 +258,7 @@ series: "سلسلة تعلم بايثون بالعربي"
 
    - [شرح مكتبة Pandas.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
    - [مدخل إلى علم البيانات المستوى الأول من رواق.](https://www.rwaq.org/courses/sea_python_level1)
-   - [علم البيانات مع بايثون لمحمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_HT_N4ZutZMmN98C1-7qUP)
+   - [علم البيانات مع بايثون لمحمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9oTARJ9BE1EChtcsPjPEZQ)
 
      
 
