@@ -231,7 +231,8 @@ series: "سلسلة تعلم بايثون بالعربي"
    - [برمجة مشروع لتحميل من اليوتيوب بواجهة PyQT5 لمحمود أحمد](https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0)
    - [برمجة نظام لإدارة مكتبة بفروعها بواجهة PyQT5](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdxuWWox8bJAiT1AuRjDM7Z)
    - [شرح مكتبة Tkinter للصافي حجازي.](https://www.youtube.com/playlist?list=PLdZYzC8fohEJBXcDCBoDGyo8paxECbATK)
-   - [شرح مكتبة PyQT5 للصافي حجازي.](https://www.youtube.com/playlist?list=PLdZYzC8fohEJw0HjpUUyjU6z9H8ZY-PeP)
+   - [شرح مكتبة PyQT5 لمحمد شوشان.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRd3yoMoUe1H5QFK2I6sGo9)
+   - [شرح مكتبة PyQT5 للمبرمج العربي.](https://www.youtube.com/playlist?list=PLN_sQXLvUWhXKYBsI1DbJyNkwgdDUIP0C)
 
      
 
@@ -253,10 +254,11 @@ series: "سلسلة تعلم بايثون بالعربي"
 
      
 
-6. Data Analysis:
+6. Data Science:
 
    - [شرح مكتبة Pandas.](https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F)
    - [مدخل إلى علم البيانات المستوى الأول من رواق.](https://www.rwaq.org/courses/sea_python_level1)
+   - [علم البيانات مع بايثون لمحمد عيسى](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_HT_N4ZutZMmN98C1-7qUP)
 
      
 
