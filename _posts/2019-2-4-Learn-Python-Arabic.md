@@ -200,7 +200,9 @@ series: "سلسلة تعلم بايثون بالعربي"
 
       - الأساسيات.
 
+13. [دورة عبد الرحمن جمال:](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE)
 
+      - الأساسيات.
 
 ##### دورات حسب الموضوع:
 
@@ -216,7 +218,9 @@ series: "سلسلة تعلم بايثون بالعربي"
      
 
 2. Python OOP:
-   - [اكادمية حسونة](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmHvfmFZZ0XuzZYuoosG9kl)[محمود أحمد](https://www.udemy.com/python-object-oriented-programming-arabic/)
+   - [اكادمية حسونة](https://www.youtube.com/playlist?list=PLHIfW1KZRIfmHvfmFZZ0XuzZYuoosG9kl)
+   - [محمود أحمد](https://www.udemy.com/python-object-oriented-programming-arabic/)
+   - [عبد الرحمن جمال](https://www.youtube.com/playlist?list=PLknwEmKsW8OsbviSITvtiwOmFBVr7LasI)
    
 
    
