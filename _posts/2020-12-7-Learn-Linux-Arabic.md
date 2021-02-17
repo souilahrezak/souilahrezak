@@ -3,7 +3,7 @@ layout: post
 title: مصادر عربية لتعلم نظام التشغيل GNU/Linux 
 published: true 
 date: 2020-12-7
-update: 2020-12-9
+update: 2021-2-17
 author: أبو تيم
 permalink: /Learn-Linux-Arabic/ 
 categories: [course, course-arabic, linux, linux-arabic]
@@ -44,6 +44,7 @@ image: /images/posts/linux.png
 - [دورة تعلم نظام اللينكس للمهندس نادر](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg)
 - [دورة أساسيات لينكس من تكناوي دوت نت](https://www.youtube.com/playlist?list=PLs6emGC4vqRK0buaLWzZkxdNX6-WW0eh7)
 - [KVM](https://www.youtube.com/playlist?list=PL2Z9mQ8mdWnq5iZ1AOItsODys4IWeCDS3)
+- [NFTables](https://www.youtube.com/playlist?list=PL2Z9mQ8mdWnp3m4Mg2QyJoqDWygdwLck4)
 - [linux distributions reviews مراجعات](https://www.youtube.com/playlist?list=PLBpclpRCG39qvWLuW94qCBzsr_iGTAyam)
 - [Linux Troubleshooting in Arabic آلاء زيدان](https://www.youtube.com/playlist?list=PLvMWV2u1t1TSMVvP8Vba55sEXYh9W6HXu)
 
