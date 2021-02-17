@@ -34,6 +34,8 @@ image: /images/posts/docker.png
 - [فيديو يشرح مقدمة في Docker.](https://www.youtube.com/watch?v=nQ6tflsf0aU)
 - [محاضرة: مقدمة إلى تقنية الحاويات نوف المقاطي من Google.](https://www.youtube.com/watch?v=wRl4Zzpcblk)
 - [سلسلة تعليم دوكر من صوت المبرمج.](https://www.youtube.com/playlist?list=PL_vMoUyBr3srNzFgQXbAjcxMfb-JpRyIN)
+- [تعلم Docker.](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY76BQBReTszByDaUiOEhC7)
+- [Docker For Developers Docker.](https://www.youtube.com/playlist?list=PLdYYj2XLw5Bmx7lN1flO4eXGGyieUkfBa)
 
 
 
