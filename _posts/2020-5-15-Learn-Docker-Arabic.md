@@ -3,7 +3,7 @@ layout: post
 title: مصادر عربية لتعلم تقنية Docker 
 published: true 
 date: 2020-5-15
-update: 2021-2-17
+update: 2021-2-18
 author: أبو تيم
 permalink: /Learn-Docker-Arabic/ 
 categories: [course, course-arabic, docker, docker-arabic]
@@ -36,6 +36,7 @@ image: /images/posts/docker.png
 - [سلسلة تعليم دوكر من صوت المبرمج.](https://www.youtube.com/playlist?list=PL_vMoUyBr3srNzFgQXbAjcxMfb-JpRyIN)
 - [تعلم Docker.](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY76BQBReTszByDaUiOEhC7)
 - [Docker For Developers Docker.](https://www.youtube.com/playlist?list=PLdYYj2XLw5Bmx7lN1flO4eXGGyieUkfBa)
+- [ورشة تعليم دوكر بالعربي.](https://www.youtube.com/watch?v=oxRjGqjUXFA)
 
 
 
