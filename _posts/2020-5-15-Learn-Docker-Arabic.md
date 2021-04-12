@@ -3,7 +3,7 @@ layout: post
 title: مصادر عربية لتعلم تقنية Docker 
 published: true 
 date: 2020-5-15
-update: 2021-2-18
+update: 2021-4-12
 author: أبو تيم
 permalink: /Learn-Docker-Arabic/ 
 categories: [course, course-arabic, docker, docker-arabic]
