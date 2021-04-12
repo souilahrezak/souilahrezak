@@ -38,6 +38,7 @@ image: /images/posts/docker.png
 - [تعلم Docker.](https://www.youtube.com/playlist?list=PLfDx4cQoUNOY76BQBReTszByDaUiOEhC7)
 - [Docker For Developers Docker.](https://www.youtube.com/playlist?list=PLdYYj2XLw5Bmx7lN1flO4eXGGyieUkfBa)
 - [ورشة تعليم دوكر بالعربي.](https://www.youtube.com/watch?v=oxRjGqjUXFA)
+- [Docker سلسلة تعلم.](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
 
 
 
