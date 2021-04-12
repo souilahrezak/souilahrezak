@@ -81,7 +81,7 @@ permalink: /about/
 
 
 
-### Gnome ShellS Extensions:
+### Gnome Shell Extensions:
 
 - [Dash To Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 - [gTile](https://extensions.gnome.org/extension/28/gtile/)
