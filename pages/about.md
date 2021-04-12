@@ -14,6 +14,7 @@ permalink: /about/
 
 ### Linux Distributed:
 
+- [Pop!_OS](https://pop.system76.com/)
 - [Linux Mint Cinnamon](https://www.linuxmint.com)
 - [Ubuntu Server](https://ubuntu.com/download/server)
 
@@ -27,11 +28,11 @@ permalink: /about/
 
 
 
-### Databse:
+### Database:
 
-- [Elasticsearch: Search Engine](https://www.elastic.co/guide/index.html)
+- [PostgreSQL](https://www.postgresql.org/docs/)
 - [Mongodb: Database NoSQL](https://docs.mongodb.com/)
-- [MySQL: Database](https://dev.mysql.com/doc/)
+- [Elasticsearch: Search Engine](https://www.elastic.co/guide/index.html)
 
 
 
@@ -39,7 +40,7 @@ permalink: /about/
 
 - [Docker](https://docs.docker.com/)
 - [VirtualBox](https://www.virtualbox.org/)
-- [VMware Workstation](https://my.vmware.com/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0)
+- [VMware Workstation](https://my.vmware.com/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/16_0)
 - [Genymotion](https://www.genymotion.com/)
 
 
@@ -48,11 +49,10 @@ permalink: /about/
 
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Jupyter Notebook](https://jupyter.org/)
-- [VSCode](https://code.visualstudio.com/)
 - [Sublime](https://www.sublimetext.com/3)
-- [Mongodb‬‬ ‫‪Compass‬‬](https://www.mongodb.com/products/compass)
+- [Mongodb Compass](https://www.mongodb.com/products/compass)
 - [Robo 3T](https://robomongo.org/)
-- [Sqlite‬‬ ‫‪Browser‬‬](https://sqlitebrowser.org/)
+- [Sqlite Browser](https://sqlitebrowser.org/)
 - [Typora: Markdown Editor](https://typora.io/)
 - [XMind: Mind Map](https://www.xmind.net/)
 
@@ -60,19 +60,33 @@ permalink: /about/
 
 ### Tools:
 
-- [FileZilla‬‬](https://filezilla-project.org/)
+- [FileZilla](https://filezilla-project.org/)
 - [Zeal: Offline Documentation Browser](https://zealdocs.org/)
-- [fish: shell](https://fishshell.com/)
+- [ZSH with Oh My Zsh: Shell](https://ohmyz.sh/)
+- [tmux: Terminal Multiplexer](https://github.com/tmux/tmux/wiki)
 - [tldr pages](https://tldr.sh/)
-- [MultiBootUSB](http://multibootusb.org/)
+- [Ventoy: Multiboot](https://www.ventoy.net/en/index.html)
 - [exiftool](https://exiftool.org/)
 - [ssdeep: Fuzzy Hashing Program](https://ssdeep-project.github.io/ssdeep/index.html)
+- [rdfind: Finds Duplicate Files](https://github.com/pauldreik/rdfind)
 - [KeePassX](https://www.keepassx.org/)
 - [GParted](https://gparted.org/)
 - [Disks](https://wiki.gnome.org/Apps/Disks)
 - [ADB: Android Debug Bridge](https://devhints.io/adb)
-- [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
 - [Htop](https://hisham.hm/htop/)
+- [CopyQ: Clipboard Manager](https://hluk.github.io/CopyQ/)
+- [Fluent Reader: RSS Reader](https://github.com/yang991178/fluent-reader/releases)
+- [wdpass: WD Passport Ultra Linux Utilities](https://github.com/7aman/wdpass)
+
+
+
+### Gnome ShellS Extensions:
+
+- [Dash To Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- [gTile](https://extensions.gnome.org/extension/28/gtile/)
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+- [Tray Icons Reloaded](https://extensions.gnome.org/extension/2890/tray-icons-reloaded/)
 
 
 
@@ -83,10 +97,8 @@ permalink: /about/
 - [R-Studio](https://www.r-studio.com/data-recovery-software/)
 - [Andriller](https://github.com/den4uk/andriller)
 - [ddrescue](https://www.gnu.org/software/ddrescue/)
-- [ddrescueview](https://sourceforge.net/projects/ddrescueview/)
 - [dcfldd](http://dcfldd.sourceforge.net/)
 - [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)
 - [recoverjpeg](https://github.com/samueltardieu/recoverjpeg)
 - [foremost: Data Carving](http://foremost.sourceforge.net/)
-- [Scalpel: Data Carving](https://github.com/sleuthkit/scalpel)
 
