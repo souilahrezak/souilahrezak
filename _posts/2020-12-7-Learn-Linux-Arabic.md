@@ -79,6 +79,7 @@ image: /images/posts/linux.png
 - [zer0err0r](https://www.youtube.com/channel/UCsX5z40As3fslwarTan4C8w)
 - [مفاتيح الحوسبة](https://www.youtube.com/channel/UCw-JnwpGHlboG0b9wNYvZ2Q)
 - [ITSoft](https://www.youtube.com/channel/UCMoMDhWBeMZhQ2axH8A1FIw)
+- [عالم لينكس العربي](https://www.youtube.com/channel/UCzNSX45GeudSt-8xcU7wtQw)
 
 ##### مجتمعات التلغرام:
 
