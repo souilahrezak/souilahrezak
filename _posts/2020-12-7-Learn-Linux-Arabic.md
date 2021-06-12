@@ -3,7 +3,7 @@ layout: post
 title: مصادر عربية لتعلم نظام التشغيل GNU/Linux 
 published: true 
 date: 2020-12-7
-update: 2021-2-17
+update: 2021-6-12
 author: أبو تيم
 permalink: /Learn-Linux-Arabic/ 
 categories: [course, course-arabic, linux, linux-arabic]
@@ -47,6 +47,7 @@ image: /images/posts/linux.png
 - [NFTables](https://www.youtube.com/playlist?list=PL2Z9mQ8mdWnp3m4Mg2QyJoqDWygdwLck4)
 - [linux distributions reviews مراجعات](https://www.youtube.com/playlist?list=PLBpclpRCG39qvWLuW94qCBzsr_iGTAyam)
 - [Linux Troubleshooting in Arabic آلاء زيدان](https://www.youtube.com/playlist?list=PLvMWV2u1t1TSMVvP8Vba55sEXYh9W6HXu)
+- [Linux Certified System Administrator 8 (Arabic)](https://www.youtube.com/playlist?list=PLm7oacl7P6nsVdEhZ8wiB9RWabTUmPjha)
 
 ##### المصادر المقروءة:
 
@@ -72,6 +73,7 @@ image: /images/posts/linux.png
 - [I'm Linux](https://www.youtube.com/c/iamlinux)
 - [Alaa Zidan](https://www.youtube.com/channel/UCYkWmRBvj9sVlRW3ahIxE2g)
 - [Arab Linux Community](https://www.youtube.com/channel/UCxUVBDLTSaVxjg0EyCWfFug)
+- [Shako Mako Tech شكو ماكو](https://www.youtube.com/channel/UCiEzlPeTjGHXZlqFV7KxZEQ)
 - [عرب جنو/لينكس](https://www.youtube.com/user/abdulmogeeb)
 - [Gnu Tux](https://www.youtube.com/c/GnuTux)
 - [zer0err0r](https://www.youtube.com/channel/UCsX5z40As3fslwarTan4C8w)
@@ -81,11 +83,14 @@ image: /images/posts/linux.png
 ##### مجتمعات التلغرام:
 
 - [مجموعة جنو/لينكس](https://t.me/Arab_Linux)
+- [إتحاد مجموعات غنو/لينكس والبرمجيات الحرة](https://t.me/AGLGUT)
 - [مجموعة مجتمع لينكس العربي](https://t.me/linuxac_org)
 - [مجموعة مستخدمي البرمجيات المفتوحة](https://t.me/arabfossusers)
 - [مجموعة مجتمع أُسُس](https://t.me/aosus)
+- [مجموعة مهووسو جنو Gnu Geeks](https://t.me/gnugeeksgroup)
 - [قناة مهووسو جنو Gnu Geeks](https://t.me/gnugeeks)
 - [قناة GNUTUX](https://t.me/GNUTUX)
+- [قناة عالم لينكس العربي](https://t.me/linuxaw)
 
 > كفى بِحفظِ وَقتكَ عن فضول الإنشغال بالناس مغنمًا
 >
