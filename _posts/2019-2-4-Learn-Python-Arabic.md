@@ -10,6 +10,7 @@ categories: [course, python, python-arabic]
 tags: [python, learn-python, arabic-python]
 image: /images/posts/python.png
 series: "سلسلة تعلم بايثون بالعربي"
+
 ---
 
 ![image](/images/posts/python.png)
@@ -69,6 +70,7 @@ series: "سلسلة تعلم بايثون بالعربي"
 - [منصة رواق: مقدمة إلى برمجة الحاسب باستخدام لغة Python.](https://www.rwaq.org/courses/introduction-to-programming)
 - [المبرمج العربي: أساسيات Python.](https://www.youtube.com/playlist?list=PLN_sQXLvUWhWPrV7uLYOia_ZzFexVPrbI)
 - [محمد شوشان: بايثون المستوى الأول.](https://www.youtube.com/playlist?list=PLnzqK5HvcpwR1X4imwck6n1Pc0uXpToDn)
+- [أكاديمية حسوب : دورة علوم الحاسب - مدفوعة.](https://academy.hsoub.com/learn/computer-science/)
 - [فكلس كورسز: دورة برمجة بايثون - مدفوعة.](https://www.flexcourses.com/courses/python-intensive)
 
 
