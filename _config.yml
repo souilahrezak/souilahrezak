@@ -22,13 +22,11 @@ avatar: https://raw.githubusercontent.com/AboTyim/abotyim.github.io/master/image
 # لكل هوية تضعها هنا ستظهر أيقونة في أسفل المدونة
 footer-links:
   email: rezazsouilah@gmail.com
-  facebook: https://www.facebook.com/rezak.souilah.5/
-  github: https://github.com/souilahrezak
-  linkedin: https://www.linkedin.com/in/souilah-rezak-ens-kouba-b01336176/
-  rss: https://abotyim.github.io/feed.xml # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: https://twitter.com/RezakSouilah
-  stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/channel/UC5koK8t_zhHArmZ1WWF80MQ
+  facebook: rezak.souilah.5
+  github: souilahrezak
+  linkedin: souilah-rezak-ens-kouba-b01336176/
+  twitter: RezakSouilah
+  youtube: channel/UC5koK8t_zhHArmZ1WWF80MQ
   
 
 
