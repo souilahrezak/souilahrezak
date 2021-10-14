@@ -12,7 +12,7 @@ description: ""
 # لإستخدام صورة هويتك في GitHub ضع https://github.com/<اسم_المستخدم>.png في المتغير، مثلا لهويتي الشخصية أستخدم:
 # avatar: https://github.com/a3ammar.png
 # ولإخفاء الصورة نهائيًا احذف الرابط من المتغير
-avatar: https://raw.githubusercontent.com/AboTyim/abotyim.github.io/master/images/logo.jpg
+avatar:
 
 
 #
