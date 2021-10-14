@@ -3,16 +3,16 @@
 #
 
 # اسم المدونة الذي سيظهر في الأعلى
-name: صويلح رزاق
+name: أبو تيم
 
 # وصف قصير للمدونة والذي سيظهر تحت اسمها وكجزء من عنوان المدونة في محركات البحث
-description: ""
+description: اِبنُ أُمَّةٍ لا تَمُوت
 
 # رابط صورة المدونة
 # لإستخدام صورة هويتك في GitHub ضع https://github.com/<اسم_المستخدم>.png في المتغير، مثلا لهويتي الشخصية أستخدم:
-# avatar: 
+# avatar: https://github.com/a3ammar.png
 # ولإخفاء الصورة نهائيًا احذف الرابط من المتغير
-avatar:
+avatar: https://raw.githubusercontent.com/AboTyim/abotyim.github.io/master/images/logo.jpg
 
 
 #
@@ -21,25 +21,32 @@ avatar:
 
 # لكل هوية تضعها هنا ستظهر أيقونة في أسفل المدونة
 footer-links:
-  email: rezazsouilah@gmail.com
-  facebook: rezak.souilah.5
-  github: souilahrezak
-  linkedin: souilah-rezak-ens-kouba-b01336176/
-  twitter: RezakSouilah
-  youtube: channel/UC5koK8t_zhHArmZ1WWF80MQ
-  
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: AboTyim
+  instagram:
+  linkedin:
+  pinterest:
+  rss: https://abotyim.github.io/feed.xml # ضع أي قيمة هنا لتظهر أيقونة RSS
+  twitter: TyimAllah
+  stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
+  youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
+  googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
+  paypal:
 
 
 # ضع الاسم Disqus القصير الخاص بك (الاسم القصير وليس اسم المستخدم) لتفعيل الردود على المدونة
 # ستجد الاسم القصير الخاص بك في إعدادات حسابك في Disqus
-# disqus: abotyim
+disqus: abotyim
 
 # إذا أردت تفعيل إحصاءات الزوار في Google Analytics أدخل المعرف الخاص بك (مثلاً UA-2110908-2)
-# google_analytics: UA-133736790-1
+google_analytics: UA-133736790-1
 
 # عنوان موقعك مثلاً http://barryclark.github.io
 # يستخدم هذا المتغير في الـRSS والـSitemap.xml
-url: https://souilahrezak.github.io
+url: http://abotyim.github.io
 
 # إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
 baseurl: ""
